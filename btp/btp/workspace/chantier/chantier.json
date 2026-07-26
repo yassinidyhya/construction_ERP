@@ -54,5 +54,6 @@
    "type": "DocType"
   }
  ],
- "title": "Chantier"
+ "title": "Chantier",
+ "type": "Workspace"
 }

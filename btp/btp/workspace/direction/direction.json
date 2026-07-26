@@ -52,5 +52,6 @@
    "type": "DocType"
   }
  ],
- "title": "Direction"
+ "title": "Direction",
+ "type": "Workspace"
 }

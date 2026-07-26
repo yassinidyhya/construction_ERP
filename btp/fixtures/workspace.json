@@ -99,7 +99,8 @@
     "url": null
    }
   ],
-  "title": "Direction"
+  "title": "Direction",
+  "type": "Workspace"
  },
  {
   "charts": [],
@@ -252,7 +253,8 @@
     "url": null
    }
   ],
-  "title": "Bureau"
+  "title": "Bureau",
+  "type": "Workspace"
  },
  {
   "charts": [],
@@ -309,6 +311,7 @@
     "url": null
    }
   ],
-  "title": "Chantier"
+  "title": "Chantier",
+  "type": "Workspace"
  }
 ]
