@@ -56,16 +56,31 @@
  "owner": "Administrator",
  "permissions": [
   {
+   "role": "System Manager",
+   "read": 1,
+   "write": 1,
    "create": 1,
    "delete": 1,
-   "email": 1,
-   "export": 1,
-   "print": 1,
+   "permlevel": 0
+  },
+  {
+   "role": "Direction",
    "read": 1,
-   "report": 1,
-   "role": "System Manager",
-   "share": 1,
-   "write": 1
+   "write": 1,
+   "create": 1,
+   "permlevel": 0
+  },
+  {
+   "role": "Chef de Chantier",
+   "read": 1,
+   "write": 1,
+   "create": 1,
+   "permlevel": 0
+  },
+  {
+   "role": "Magasinier",
+   "read": 1,
+   "permlevel": 0
   }
  ],
  "sort_field": "modified",
