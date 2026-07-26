@@ -1,0 +1,58 @@
+{
+ "charts": [],
+ "content": "[{\"id\": \"a33e6e6893\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>Shortcuts</b></span>\", \"col\": 12}}, {\"id\": \"2e7de678bf\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Construction Site\", \"col\": 3}}, {\"id\": \"17809a5910\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Daily Site Report\", \"col\": 3}}, {\"id\": \"c8a0d9963b\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Material Request\", \"col\": 3}}, {\"id\": \"448ad8986c\", \"type\": \"header\", \"data\": {\"text\": \"<span class=\\\"h4\\\"><b>Today Reports</b></span>\", \"col\": 12}}, {\"id\": \"fd9edff16d\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Today Reports Submitted\", \"col\": 4}}]",
+ "creation": "2026-07-25 12:53:16.457794",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "construction",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Chantier",
+ "links": [],
+ "modified": "2026-07-25 12:55:48.560935",
+ "modified_by": "Administrator",
+ "module": "BTP",
+ "name": "Chantier",
+ "number_cards": [
+  {
+   "label": "Today Reports Submitted",
+   "number_card_name": "Today Reports Submitted"
+  }
+ ],
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Chef de Chantier"
+  },
+  {
+   "role": "Magasinier"
+  }
+ ],
+ "sequence_id": 3.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Construction Site",
+   "link_to": "Construction Site",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Daily Site Report",
+   "link_to": "Daily Site Report",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Material Request",
+   "link_to": "Material Request",
+   "type": "DocType"
+  }
+ ],
+ "title": "Chantier"
+}

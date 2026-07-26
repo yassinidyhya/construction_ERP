@@ -1,0 +1,140 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-07-25 11:23:47.953311",
+  "name": "BTP Comptable",
+  "role_profile": "BTP Comptable",
+  "roles": [
+   {
+    "parent": "BTP Comptable",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Comptable"
+   },
+   {
+    "parent": "BTP Comptable",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "BTP Comptable",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "BTP Comptable",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales User"
+   },
+   {
+    "parent": "BTP Comptable",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "BTP Comptable",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "HR User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-07-25 11:23:48.008876",
+  "name": "BTP Direction",
+  "role_profile": "BTP Direction",
+  "roles": [
+   {
+    "parent": "BTP Direction",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Direction"
+   },
+   {
+    "parent": "BTP Direction",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "BTP Direction",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Sales User"
+   },
+   {
+    "parent": "BTP Direction",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects User"
+   },
+   {
+    "parent": "BTP Direction",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Report Manager"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-07-25 11:23:48.038628",
+  "name": "BTP Chantier",
+  "role_profile": "BTP Chantier",
+  "roles": [
+   {
+    "parent": "BTP Chantier",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Chef de Chantier"
+   },
+   {
+    "parent": "BTP Chantier",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Projects User"
+   },
+   {
+    "parent": "BTP Chantier",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Role Profile",
+  "modified": "2026-07-25 11:23:48.058172",
+  "name": "BTP Magasinier",
+  "role_profile": "BTP Magasinier",
+  "roles": [
+   {
+    "parent": "BTP Magasinier",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Magasinier"
+   },
+   {
+    "parent": "BTP Magasinier",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Stock User"
+   },
+   {
+    "parent": "BTP Magasinier",
+    "parentfield": "roles",
+    "parenttype": "Role Profile",
+    "role": "Purchase User"
+   }
+  ]
+ }
+]

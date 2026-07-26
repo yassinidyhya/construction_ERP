@@ -1,0 +1,1130 @@
+Account Name,Parent Account,Account Number,Parent Account Number,Is Group,Account Type,Root Type,Account Currency
+BILAN D’OUVERTURE,,01,,1,,Asset,MAD
+CLOTURE DU BILAN,,02,,1,,Asset,MAD
+COMPTES D'ORDRE,,03,,1,,Asset,MAD
+ENGAGEMENTS DONNES,,04,,1,,Asset,MAD
+ENGAGEMENT REÇUS,,05,,1,,Asset,MAD
+ENGAGEMENT SUR OPERATIONS DE CREDIT -BAIL,,06,,1,,Asset,MAD
+AUTRES COMPTES SPECIAUX,,08,,1,,Asset,MAD
+CAPITAUX PROPRES,,11,,1,,Equity,MAD
+Réouverture des comptes des immobilisations financières,,124_25,,1,,Liability,MAD
+CAPITAUX PROPRES ASSIMILES,,13,,1,,Equity,MAD
+DETTES DE FINANCEMENT,,14,,1,,Liability,MAD
+Provisions durables pour risques et charges,,15,,1,,Liability,MAD
+COMPTES DE LIAISON DES ETABLISSEMENTS ET SUCCURSALES,,16,,1,,Equity,MAD
+Ecarts de conversion - Passif,,17,,1,,Equity,MAD
+IMMOBILISATIONS EN NON-VALEURS,,21,,1,,Asset,MAD
+IMMOBILISATIONS INCORPORELLES,,22,,1,,Asset,MAD
+Clôture des comptes des immobilisations Financières,IMMOBILISATIONS INCORPORELLES,224_25,22,1,,Asset,MAD
+IMMOBILISATIONS CORPORELLES,,23,,1,,Asset,MAD
+IMMOBILSATIONS FINANCIERES,,24_25,,1,,Asset,MAD
+ECARTS DE CONVERSION - ACTIF,,27,,1,,Asset,MAD
+AMORTISSEMENTS DES IMMOBILISATIONS,,28,,1,,Asset,MAD
+PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS,,29,,1,,Asset,MAD
+STOCKS,,31,,1,,Asset,MAD
+CREANCES DE L'ACTIF CIRCULANT,,34,,1,,Asset,MAD
+TITRES ET VALEURS DE PLACEMENT,,35,,1,,Asset,MAD
+ECART DE CONVERSION - ACTIF (Eléments circulants),,37,,1,,Asset,MAD
+PROVISIONS POUR DEPRECIATION DES COMPTES DE L'ACTIF CIRCULANT,,39,,1,,Asset,MAD
+DETTES DU PASSIF CIRCULANT,,44,,1,,Liability,MAD
+AUTRES PROVISIONS POUR RISQUES ET CHARGES,,45,,1,,Liability,MAD
+ECARTS DE CONVERSION - PASSIF (Eléments circulants),,47,,1,,Liability,MAD
+TRESORERIE - ACTIF,,51,,1,,Asset,MAD
+TRESORERIE - PASSIF,,55,,1,,Liability,MAD
+PROVISIONS POUR DEPRECIATION DES COMPTES DE TRESORERIE,,59,,1,,Liability,MAD
+CHARGES D'EXPLOITATION,,61,,1,,Expense,MAD
+CHARGES FINANCIERES,,63,,1,,Expense,MAD
+CHARGES NON COURANTES,,65,,1,,Expense,MAD
+IMPOTS SUR LES RESULTATS,,67,,1,,Expense,MAD
+PRODUITS D’EXPLOITATION,,71,,1,,Income,MAD
+PRODUITS FINANCIERS,,73,,1,,Income,MAD
+PRODUITS NON COURANTS,,75,,1,,Income,MAD
+RESULTAT D'EXPLOITATION,,81,,1,,Equity,MAD
+RESULTAT FINANCIER,,83,,1,,Equity,MAD
+RESULTAT COURANT,,84,,1,,Equity,MAD
+RESULTAT NON COURANT,,85,,1,,Equity,MAD
+RESULTAT AVANT IMPOTS,,86,,1,,Equity,MAD
+RESULTAT APRES IMPOTS,,88,,1,,Equity,MAD
+COMPTES DE PRODUITS ET CHARGES REFLECHIS,,90,,1,,Equity,MAD
+COMPTES DE RECLASSEMENT ET D'ANALYSE,,91,,1,,Equity,MAD
+SECTIONS ANALYTIQUES,,92,,1,,Equity,MAD
+COUTS D’ACHAT OU DE PRODUCTION,,93,,1,,Equity,MAD
+INVENTAIRE PERMANENT DES STOCKS,,94,,1,,Equity,MAD
+COUTS DE REVIENT,,95,,1,,Equity,MAD
+ECARTS SUR COUTS PREETABLIS,,96,,1,,Equity,MAD
+DIFFERENCE D’INCORPORATION,,97,,1,,Equity,MAD
+RESULTATS ANALYTIQUES,,98,,1,,Equity,MAD
+COMPTES DE LIAISON INTERNE,,99,,1,,Equity,MAD
+Réouverture des comptes de financement permanent,BILAN D’OUVERTURE,011,01,1,,Asset,MAD
+Réouverture des comptes d’actif immobilisé,BILAN D’OUVERTURE,012,01,1,,Asset,MAD
+Réouverture des comptes d’actif circulant (hors trésorerie),BILAN D’OUVERTURE,013,01,1,,Asset,MAD
+014. Réouverture des comptes de passif circulant ( hors trésorerie),BILAN D’OUVERTURE,014,01,1,,Asset,MAD
+Réouverture des comptes de trésorerie,BILAN D’OUVERTURE,015,01,1,,Asset,MAD
+Clôture des comptes de financement permanent,CLOTURE DU BILAN,021,02,1,,Asset,MAD
+Clôture des comptes d’actif immobilisé,CLOTURE DU BILAN,022,02,1,,Asset,MAD
+Clôture des comptes d’actif circulant (hors trésorerie),CLOTURE DU BILAN,023,02,1,,Asset,MAD
+Clôture des comptes de passif circulant (hors trésorerie),CLOTURE DU BILAN,024,02,1,,Asset,MAD
+Clôture des comptes de trésorerie,CLOTURE DU BILAN,025,02,1,,Asset,MAD
+Opérations en instance de dénouement (débit),COMPTES D'ORDRE,031,03,1,,Asset,MAD
+Opérations en instances de dénouement (crédit),COMPTES D'ORDRE,033,03,1,,Asset,MAD
+Opérations en devises entrées,COMPTES D'ORDRE,035,03,1,,Asset,MAD
+Opérations en devises sorties,COMPTES D'ORDRE,036,03,1,,Asset,MAD
+Autres données statistiques,COMPTES D'ORDRE,038,03,1,,Asset,MAD
+"Avals, cautions et garanties donnés",ENGAGEMENTS DONNES,041,04,1,,Asset,MAD
+Engagements en matière de pensions de retraite et obligations similaires,ENGAGEMENTS DONNES,043,04,1,,Asset,MAD
+Effet circulant sous l’endos de l’entreprise,ENGAGEMENTS DONNES,045,04,1,,Asset,MAD
+Engagements donnés pour prêt consentis,ENGAGEMENTS DONNES,046,04,1,,Asset,MAD
+Autres engagement donnés,ENGAGEMENTS DONNES,048,04,1,,Asset,MAD
+"Avals, cautions et garanties reçus",ENGAGEMENT REÇUS,051,05,1,,Asset,MAD
+Biens détenus en garantie par l’entreprise,ENGAGEMENT REÇUS,055,05,1,,Asset,MAD
+Engagement reçus sur dettes de financement,ENGAGEMENT REÇUS,056,05,1,,Asset,MAD
+Engagement reçus sur trésorerie,ENGAGEMENT REÇUS,057,05,1,,Asset,MAD
+Autres engagements reçus,ENGAGEMENT REÇUS,058,05,1,,Asset,MAD
+Engagements de crédit-bail restant à courir,ENGAGEMENT SUR OPERATIONS DE CREDIT -BAIL,061,06,1,,Asset,MAD
+Engagements reçus pour utilisation en crédit-bail,ENGAGEMENT SUR OPERATIONS DE CREDIT -BAIL,065,06,1,,Asset,MAD
+Autres comptes spéciaux,AUTRES COMPTES SPECIAUX,081,08,1,,Asset,MAD
+Capital social ou personnel,CAPITAUX PROPRES,111,11,1,,Equity,MAD
+"Primes d'émission, de fusion et d'apport",CAPITAUX PROPRES,112,11,1,,Equity,MAD
+Ecarts de réévaluation,CAPITAUX PROPRES,113,11,1,,Equity,MAD
+Réserve légale,CAPITAUX PROPRES,114,11,1,,Equity,MAD
+Autres réserves,CAPITAUX PROPRES,115,11,1,,Equity,MAD
+Report à nouveau,CAPITAUX PROPRES,116,11,1,,Equity,MAD
+Résultats nets en instance d'affectation,CAPITAUX PROPRES,118,11,1,,Equity,MAD
+Résultat net de l'exercice,CAPITAUX PROPRES,119,11,1,,Equity,MAD
+Subventions d'investissement,CAPITAUX PROPRES ASSIMILES,131,13,1,,Equity,MAD
+Provisions réglementées,CAPITAUX PROPRES ASSIMILES,135,13,1,,Equity,MAD
+Emprunts obligataires,DETTES DE FINANCEMENT,141,14,1,,Liability,MAD
+Autres dettes de financement,DETTES DE FINANCEMENT,148,14,1,,Liability,MAD
+Provisions pour risques,Provisions durables pour risques et charges,151,15,1,,Liability,MAD
+Provisions pour charges,Provisions durables pour risques et charges,155,15,1,,Liability,MAD
+Comptes de liaison des établissements et succursales,COMPTES DE LIAISON DES ETABLISSEMENTS ET SUCCURSALES,160,16,1,,Equity,MAD
+Augmentation des créances immobilisées,Ecarts de conversion - Passif,171,17,1,,Equity,MAD
+Diminution des dettes de financement,Ecarts de conversion - Passif,172,17,1,,Equity,MAD
+Frais préliminaires,IMMOBILISATIONS EN NON-VALEURS,211,21,1,,Asset,MAD
+Charges à répartir sur plusieurs exercices,IMMOBILISATIONS EN NON-VALEURS,212,21,1,,Asset,MAD
+Primes de remboursement des obligations,IMMOBILISATIONS EN NON-VALEURS,213,21,1,,Asset,MAD
+Immobilisation en recherche et développement,IMMOBILISATIONS INCORPORELLES,221,22,1,,Asset,MAD
+"Brevets, marques, droits et valeurs similaires",IMMOBILISATIONS INCORPORELLES,222,22,1,,Asset,MAD
+Fonds commercial,IMMOBILISATIONS INCORPORELLES,223,22,1,,Asset,MAD
+Autres immobilisations incorporelles,IMMOBILISATIONS INCORPORELLES,228,22,1,,Asset,MAD
+Terrains,IMMOBILISATIONS CORPORELLES,231,23,1,,Asset,MAD
+Constructions,IMMOBILISATIONS CORPORELLES,232,23,1,,Asset,MAD
+"Installations techniques, matériel et outillage",IMMOBILISATIONS CORPORELLES,233,23,1,,Asset,MAD
+Matériel de transport,IMMOBILISATIONS CORPORELLES,234,23,1,,Asset,MAD
+"Mobilier, matériel de bureau et aménagements divers",IMMOBILISATIONS CORPORELLES,235,23,1,,Asset,MAD
+Autres immobilisations corporelles,IMMOBILISATIONS CORPORELLES,238,23,1,,Asset,MAD
+Immobilisations corporelles en cours,IMMOBILISATIONS CORPORELLES,239,23,1,,Asset,MAD
+Prêts immobilsés,IMMOBILSATIONS FINANCIERES,241,24_25,1,,Asset,MAD
+Autres créances financières,IMMOBILSATIONS FINANCIERES,248,24_25,1,,Asset,MAD
+Titres de participation,IMMOBILSATIONS FINANCIERES,251,24_25,1,,Asset,MAD
+Autres titres immobilisés,IMMOBILSATIONS FINANCIERES,258,24_25,1,,Asset,MAD
+Diminution des créances immobilisées,ECARTS DE CONVERSION - ACTIF,271,27,1,,Asset,MAD
+Augmentation des dettes de financement,ECARTS DE CONVERSION - ACTIF,272,27,1,,Asset,MAD
+Amortissements des non-valeurs,AMORTISSEMENTS DES IMMOBILISATIONS,281,28,1,,Asset,MAD
+Amortissements des immobilisations incorporelles,AMORTISSEMENTS DES IMMOBILISATIONS,282,28,1,,Asset,MAD
+Amortissements des immobilisations corporelles,AMORTISSEMENTS DES IMMOBILISATIONS,283,28,1,,Asset,MAD
+Provisions pour dépréciation des immobilisations incorporelles,PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS,292,29,1,,Asset,MAD
+Provisions pour dépréciation des immobilisations corporelles,PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS,293,29,1,,Asset,MAD
+Provisions pour dépréciation des immobilisations financières,PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS,294_295,29,1,,Asset,MAD
+Marchandises,STOCKS,311,31,1,,Asset,MAD
+Matières et fournitures consommables,STOCKS,312,31,1,,Asset,MAD
+Produits en cours,STOCKS,313,31,1,,Asset,MAD
+Produits intermédiaires et produits résiduels,STOCKS,314,31,1,,Asset,MAD
+Produits finis,STOCKS,315,31,1,,Asset,MAD
+"Fournisseurs débiteurs, avances et acomptes",CREANCES DE L'ACTIF CIRCULANT,341,34,1,,Asset,MAD
+Clients et comptes rattachés,CREANCES DE L'ACTIF CIRCULANT,342,34,1,,Asset,MAD
+Personnel - débiteur,CREANCES DE L'ACTIF CIRCULANT,343,34,1,,Asset,MAD
+Etat - débiteur,CREANCES DE L'ACTIF CIRCULANT,345,34,1,,Asset,MAD
+Comptes d'associés - débiteurs,CREANCES DE L'ACTIF CIRCULANT,346,34,1,,Asset,MAD
+Autres débiteurs,CREANCES DE L'ACTIF CIRCULANT,348,34,1,,Asset,MAD
+Comptes de régularisation - actif,CREANCES DE L'ACTIF CIRCULANT,349,34,1,,Asset,MAD
+Titres et valeurs de placement,TITRES ET VALEURS DE PLACEMENT,350,35,1,,Asset,MAD
+Ecart de conversion - Actif (éléments circulants),ECART DE CONVERSION - ACTIF (Eléments circulants),370,37,1,,Asset,MAD
+Provisions pour dépréciation des stocks,PROVISIONS POUR DEPRECIATION DES COMPTES DE L'ACTIF CIRCULANT,391,39,1,,Asset,MAD
+Provisions pour dépréciation des créances de l'actif circulant,PROVISIONS POUR DEPRECIATION DES COMPTES DE L'ACTIF CIRCULANT,394,39,1,,Asset,MAD
+Provisions pour dépréciation des titres et valeurs de placement,PROVISIONS POUR DEPRECIATION DES COMPTES DE L'ACTIF CIRCULANT,395,39,1,,Asset,MAD
+Fournisseurs et comptes rattachés,DETTES DU PASSIF CIRCULANT,441,44,1,,Liability,MAD
+"Clients créditeurs, avances et acomptes",DETTES DU PASSIF CIRCULANT,442,44,1,,Liability,MAD
+Personnel - créditeur,DETTES DU PASSIF CIRCULANT,443,44,1,,Liability,MAD
+Organismes sociaux,DETTES DU PASSIF CIRCULANT,444,44,1,,Liability,MAD
+Etat - créditeur,DETTES DU PASSIF CIRCULANT,445,44,1,,Liability,MAD
+Comptes d'associés - créditeurs,DETTES DU PASSIF CIRCULANT,446,44,1,,Liability,MAD
+Autres créanciers,DETTES DU PASSIF CIRCULANT,448,44,1,,Liability,MAD
+Comptes de régularisation - passif,DETTES DU PASSIF CIRCULANT,449,44,1,,Liability,MAD
+Autres provisions pour risques et charges,AUTRES PROVISIONS POUR RISQUES ET CHARGES,450,45,1,,Liability,MAD
+Ecarts de conversion - passif (Eléments circulants),ECARTS DE CONVERSION - PASSIF (Eléments circulants),470,47,1,,Liability,MAD
+Chèques et valeurs à encaisser,TRESORERIE - ACTIF,511,51,1,,Asset,MAD
+"Banques, Trésorerie Générale et chèques postaux débiteurs",TRESORERIE - ACTIF,514,51,1,,Asset,MAD
+"Caisses, régies d'avances et accréditifs",TRESORERIE - ACTIF,516,51,1,,Asset,MAD
+Crédits d'escompte,TRESORERIE - PASSIF,552,55,1,,Liability,MAD
+Crédits de trésorerie,TRESORERIE - PASSIF,553,55,1,,Liability,MAD
+Banques (solde créditeur),TRESORERIE - PASSIF,554,55,1,,Liability,MAD
+Provisions pour dépréciation des comptes de trésorerie,PROVISIONS POUR DEPRECIATION DES COMPTES DE TRESORERIE,590,59,1,,Liability,MAD
+Achats revendus de marchandises,CHARGES D'EXPLOITATION,611,61,1,,Expense,MAD
+Achats consommés de matières et fournitures,CHARGES D'EXPLOITATION,612,61,1,,Expense,MAD
+Autres charges externes,CHARGES D'EXPLOITATION,613_614,61,1,,Expense,MAD
+Impôts et taxes,CHARGES D'EXPLOITATION,616,61,1,,Expense,MAD
+Charges de personnel,CHARGES D'EXPLOITATION,617,61,1,,Expense,MAD
+Autres charges d'exploitation,CHARGES D'EXPLOITATION,618,61,1,,Expense,MAD
+Dotations d’exploitation,CHARGES D'EXPLOITATION,619,61,1,,Expense,MAD
+Charges d’intérêts,CHARGES FINANCIERES,631,63,1,,Expense,MAD
+Pertes de change,CHARGES FINANCIERES,633,63,1,,Expense,MAD
+Autres charges financières,CHARGES FINANCIERES,638,63,1,,Expense,MAD
+Dotations financières,CHARGES FINANCIERES,639,63,1,,Expense,MAD
+Valeurs nettes d’amortissements des immobilisations cédées ( V.N.A ),CHARGES NON COURANTES,651,65,1,,Expense,MAD
+Subventions accordées,CHARGES NON COURANTES,656,65,1,,Expense,MAD
+Autres charges non courantes,CHARGES NON COURANTES,658,65,1,,Expense,MAD
+Dotations non courantes,CHARGES NON COURANTES,659,65,1,,Expense,MAD
+Impôts sur les résulatats,IMPOTS SUR LES RESULTATS,670,67,1,,Expense,MAD
+Ventes de marchandises,PRODUITS D’EXPLOITATION,711,71,1,,Income,MAD
+Ventes de biens et services produits,PRODUITS D’EXPLOITATION,712,71,1,,Income,MAD
+Variation des stocks de produits,PRODUITS D’EXPLOITATION,713,71,1,,Income,MAD
+Immobilisations produites par l’entreprise pour elle même,PRODUITS D’EXPLOITATION,714,71,1,,Income,MAD
+Subventions d’exploitation,PRODUITS D’EXPLOITATION,716,71,1,,Income,MAD
+Autres produits d’exploitation,PRODUITS D’EXPLOITATION,718,71,1,,Income,MAD
+"Reprise d’exploitation, transferts de charges",PRODUITS D’EXPLOITATION,719,71,1,,Income,MAD
+Produits des titres de participation et des autres titres immobilisés,PRODUITS FINANCIERS,732,73,1,,Income,MAD
+Gains de change,PRODUITS FINANCIERS,733,73,1,,Income,MAD
+Intérêts et autres produits financiers,PRODUITS FINANCIERS,738,73,1,,Income,MAD
+"Reprises financières, transferts de charges",PRODUITS FINANCIERS,739,73,1,,Income,MAD
+Produits des cessions d’immobilisations,PRODUITS NON COURANTS,751,75,1,,Income,MAD
+Subventions d’équilibre,PRODUITS NON COURANTS,756,75,1,,Income,MAD
+Reprise sur subventions d’investissements,PRODUITS NON COURANTS,757,75,1,,Income,MAD
+Autres produits non courants,PRODUITS NON COURANTS,758,75,1,,Income,MAD
+Résultat d'exploitation,RESULTAT D'EXPLOITATION,810,81,1,,Equity,MAD
+Marge brute,RESULTAT D'EXPLOITATION,811,81,1,,Equity,MAD
+Valeur ajoutée,RESULTAT D'EXPLOITATION,814,81,1,,Equity,MAD
+Excédent brut d'exploitation,RESULTAT D'EXPLOITATION,817,81,1,,Equity,MAD
+Résultat financier,RESULTAT FINANCIER,830,83,1,,Equity,MAD
+Résultat courant,RESULTAT COURANT,840,84,1,,Equity,MAD
+Résultat non courant,RESULTAT NON COURANT,850,85,1,,Equity,MAD
+Résultat avant impôts,RESULTAT AVANT IMPOTS,860,86,1,,Equity,MAD
+Résultat après impôts,RESULTAT APRES IMPOTS,880,88,1,,Equity,MAD
+Stocks et provisions pour dépréciation des stocks réfléchis,COMPTES DE PRODUITS ET CHARGES REFLECHIS,903,90,1,,Equity,MAD
+Charges réfléchies,COMPTES DE PRODUITS ET CHARGES REFLECHIS,906,90,1,,Equity,MAD
+Produits réfléchis,COMPTES DE PRODUITS ET CHARGES REFLECHIS,907,90,1,,Equity,MAD
+Résultats réfléchis,COMPTES DE PRODUITS ET CHARGES REFLECHIS,908,90,1,,Equity,MAD
+Sections générales,SECTIONS ANALYTIQUES,921,92,1,,Equity,MAD
+Sections d’approvisionnement,SECTIONS ANALYTIQUES,923,92,1,,Equity,MAD
+Sections de production,SECTIONS ANALYTIQUES,925,92,1,,Equity,MAD
+Section de distribution,SECTIONS ANALYTIQUES,927,92,1,,Equity,MAD
+Autres sections analytiques,SECTIONS ANALYTIQUES,928,92,1,,Equity,MAD
+Coûts d’achat,COUTS D’ACHAT OU DE PRODUCTION,933,93,1,,Equity,MAD
+Coûts de production,COUTS D’ACHAT OU DE PRODUCTION,935,93,1,,Equity,MAD
+Autres coûts d’achat ou de production,COUTS D’ACHAT OU DE PRODUCTION,938,93,1,,Equity,MAD
+Inventaire permanent des marchandises,INVENTAIRE PERMANENT DES STOCKS,941,94,1,,Equity,MAD
+Inventaire permanent des matières et fournitures consommables,INVENTAIRE PERMANENT DES STOCKS,942,94,1,,Equity,MAD
+Inventaire permanent des produits en cours,INVENTAIRE PERMANENT DES STOCKS,943,94,1,,Equity,MAD
+Inventaire permanent des produits intermédiaires et produits résiduels,INVENTAIRE PERMANENT DES STOCKS,944,94,1,,Equity,MAD
+Inventaire permanent des produits finis,INVENTAIRE PERMANENT DES STOCKS,945,94,1,,Equity,MAD
+Provisions sur dépréciation des stocks,INVENTAIRE PERMANENT DES STOCKS,949,94,1,,Equity,MAD
+Coûts de revient des marchandises,COUTS DE REVIENT,953,95,1,,Equity,MAD
+Coûts de revient des produits,COUTS DE REVIENT,955,95,1,,Equity,MAD
+Autres coûts de revient,COUTS DE REVIENT,958,95,1,,Equity,MAD
+Ecarts sur sections,ECARTS SUR COUTS PREETABLIS,962,96,1,,Equity,MAD
+Ecarts sur inventaire permanent des stocks,ECARTS SUR COUTS PREETABLIS,964,96,1,,Equity,MAD
+Charges non incorporables,DIFFERENCE D’INCORPORATION,971,97,1,,Equity,MAD
+Charges supplétives incorporées,DIFFERENCE D’INCORPORATION,972,97,1,,Equity,MAD
+Produits non incorporés,DIFFERENCE D’INCORPORATION,973,97,1,,Equity,MAD
+Différences sur charges incorporables,DIFFERENCE D’INCORPORATION,974,97,1,,Equity,MAD
+Différences sur produits incorporables,DIFFERENCE D’INCORPORATION,975,97,1,,Equity,MAD
+Différences d’inventaire,DIFFERENCE D’INCORPORATION,976,97,1,,Equity,MAD
+Différences sur niveau d’activité,DIFFERENCE D’INCORPORATION,977,97,1,,Equity,MAD
+Autres différences d’incorporation,DIFFERENCE D’INCORPORATION,978,97,1,,Equity,MAD
+Résultats analytiques sur marchandises,RESULTATS ANALYTIQUES,981,98,1,,Equity,MAD
+Résultats analytiques sur biens produits,RESULTATS ANALYTIQUES,982,98,1,,Equity,MAD
+Résultats analytiques sur services produits,RESULTATS ANALYTIQUES,983,98,1,,Equity,MAD
+Reports des écarts sur coûts préétablis,RESULTATS ANALYTIQUES,986,98,1,,Equity,MAD
+Reports des différences d’incorporation,RESULTATS ANALYTIQUES,987,98,1,,Equity,MAD
+Liaisons internes propres a un même établissement,COMPTES DE LIAISON INTERNE,991,99,1,,Equity,MAD
+Cessions à d’autres établissements,COMPTES DE LIAISON INTERNE,995,99,1,,Equity,MAD
+Réouverture des comptes des capitaux propres,Réouverture des comptes de financement permanent,0111,011,0,,Asset,MAD
+Réouverture des comptes des capitaux propres assimilés,Réouverture des comptes de financement permanent,0113,011,0,,Asset,MAD
+Réouverture des comptes des dettes de financement,Réouverture des comptes de financement permanent,0114,011,0,,Asset,MAD
+Réouverture des comptes de provisions durables pour risques et charges,Réouverture des comptes de financement permanent,0115,011,0,,Asset,MAD
+Réouverture des comptes de liaison des établissements et succursales,Réouverture des comptes de financement permanent,0116,011,0,,Asset,MAD
+Réouverture des comptes d’écarts de conversion –Passif,Réouverture des comptes de financement permanent,0117,011,0,,Asset,MAD
+Réouverture des comptes d’immobilisation en non-valeurs,Réouverture des comptes d’actif immobilisé,0121,012,0,,Asset,MAD
+Réouverture des comptes d’immobilisations incorporelles,Réouverture des comptes d’actif immobilisé,0122,012,0,,Asset,MAD
+Réouverture des comptes des immobilisations corporelles,Réouverture des comptes d’actif immobilisé,0123,012,0,,Asset,MAD
+Réouverture des comptes d’écarts de conversion -Actif,Réouverture des comptes d’actif immobilisé,0127,012,0,,Asset,MAD
+Réouverture des comptes des amortissements des immobilisations,Réouverture des comptes d’actif immobilisé,0128,012,0,,Asset,MAD
+Réouverture des comptes de provisions pour dépréciation des comptes de l’actif immobilisé,Réouverture des comptes d’actif immobilisé,0129,012,0,,Asset,MAD
+Réouverture des comptes de stocks,Réouverture des comptes d’actif circulant (hors trésorerie),0131,013,0,,Asset,MAD
+Réouverture des comptes de créances,Réouverture des comptes d’actif circulant (hors trésorerie),0134,013,0,,Asset,MAD
+Réouverture des comptes titres et valeurs de placement,Réouverture des comptes d’actif circulant (hors trésorerie),0135,013,0,,Asset,MAD
+Réouverture des comptes des écarts de conversion –Actif (Elément circulants),Réouverture des comptes d’actif circulant (hors trésorerie),0137,013,0,,Asset,MAD
+Réouverture des comptes de provisions pour dépréciation des comptes de l’actif circulant,Réouverture des comptes d’actif circulant (hors trésorerie),0139,013,0,,Asset,MAD
+Réouverture des comptes de dettes du passif circulant,014. Réouverture des comptes de passif circulant ( hors trésorerie),0144,014,0,,Asset,MAD
+des comptes des autres provisions pour risques et charges,014. Réouverture des comptes de passif circulant ( hors trésorerie),0145,014,0,,Asset,MAD
+Réouverture des comptes des écarts de conversion –Passif (Eléments circulants),014. Réouverture des comptes de passif circulant ( hors trésorerie),0147,014,0,,Asset,MAD
+Réouverture des comptes de trésorerie -Actif,Réouverture des comptes de trésorerie,0151,015,0,,Asset,MAD
+Réouverture des comptes de trésorerie -Passif,Réouverture des comptes de trésorerie,0155,015,0,,Asset,MAD
+Réouverture des comptes de provisions pour dépréciation des comptes de trésorerie,Réouverture des comptes de trésorerie,0159,015,0,,Asset,MAD
+Clôture des comptes de capitaux propres,Clôture des comptes de financement permanent,0211,021,0,,Asset,MAD
+Clôture des comptes de capitaux propres assimilés,Clôture des comptes de financement permanent,0213,021,0,,Asset,MAD
+Clôture des comptes de dettes de financement,Clôture des comptes de financement permanent,0214,021,0,,Asset,MAD
+Clôture des comptes de provisions durables pour risques et charges,Clôture des comptes de financement permanent,0215,021,0,,Asset,MAD
+Clôture des comptes de liaison des établissements et succursales,Clôture des comptes de financement permanent,0216,021,0,,Asset,MAD
+Clôture des comptes des écarts de conversion -Passif,Clôture des comptes de financement permanent,0217,021,0,,Asset,MAD
+Clôture des comptes d’immobilisation en non-valeurs,Clôture des comptes d’actif immobilisé,0221,022,0,,Asset,MAD
+Clôture des comptes des immobilisations incorporelles,Clôture des comptes d’actif immobilisé,0222,022,0,,Asset,MAD
+Clôture des comptes des immobilisations corporelles,Clôture des comptes d’actif immobilisé,0223,022,0,,Asset,MAD
+Clôture des comptes des écarts de conversion -Actif,Clôture des comptes d’actif immobilisé,0227,022,0,,Asset,MAD
+Clôture des comptes des amortissements des immobilisations,Clôture des comptes d’actif immobilisé,0228,022,0,,Asset,MAD
+Clôture des comptes de provisions pour dépréciation des comptes de l’actif immobilisé,Clôture des comptes d’actif immobilisé,0229,022,0,,Asset,MAD
+Clôture des comptes de stocks,Clôture des comptes d’actif circulant (hors trésorerie),0231,023,0,,Asset,MAD
+Clôture des comptes de créances,Clôture des comptes d’actif circulant (hors trésorerie),0234,023,0,,Asset,MAD
+Clôture des comptes titres et valeurs de placement,Clôture des comptes d’actif circulant (hors trésorerie),0235,023,0,,Asset,MAD
+Clôture des comptes des écarts de conversion -Actif (Eléments circulants),Clôture des comptes d’actif circulant (hors trésorerie),0237,023,0,,Asset,MAD
+Clôture des comptes de provisions pour dépréciation des comptes de l’actif circulant,Clôture des comptes d’actif circulant (hors trésorerie),0239,023,0,,Asset,MAD
+Clôture des comptes de dettes du passif circulant,Clôture des comptes de passif circulant (hors trésorerie),0244,024,0,,Asset,MAD
+Clôture des comptes des autres provisions pour risques et charges,Clôture des comptes de passif circulant (hors trésorerie),0245,024,0,,Asset,MAD
+Clôture des comptes des écarts de conversion -Passif (Eléments circulants),Clôture des comptes de passif circulant (hors trésorerie),0247,024,0,,Asset,MAD
+Clôture des comptes de trésorerie -Actif,Clôture des comptes de trésorerie,0251,025,0,,Asset,MAD
+Clôture des comptes de trésorerie -Passif,Clôture des comptes de trésorerie,0255,025,0,,Asset,MAD
+Clôture des comptes de provisions pour dépréciation des comptes de trésorerie,Clôture des comptes de trésorerie,0259,025,0,,Asset,MAD
+Opérations de débit en instance de dénouement,Opérations en instance de dénouement (débit),0311,031,0,,Asset,MAD
+Contrepartie des opérations en instance de dénouement,Opérations en instance de dénouement (débit),0319,031,0,,Asset,MAD
+Opérations de crédit en instance de dénouement,Opérations en instances de dénouement (crédit),0331,033,0,,Asset,MAD
+Contrepartie des opérations en instance de dénouement,Opérations en instances de dénouement (crédit),0339,033,0,,Asset,MAD
+Contre-valeur devises -entrées,Opérations en devises entrées,0351,035,0,,Asset,MAD
+Contrepartie devises -entrées,Opérations en devises entrées,0359,035,0,,Asset,MAD
+Contre-valeur devises -sorties,Opérations en devises sorties,0361,036,0,,Asset,MAD
+Contrepartie devises -sorties,Opérations en devises sorties,0369,036,0,,Asset,MAD
+Opérations statistiques suivies,Autres données statistiques,0381,038,0,,Asset,MAD
+Contrepartie des opérations statistiques suivies,Autres données statistiques,0389,038,0,,Asset,MAD
+"Avals, cautions et garanties donnés","Avals, cautions et garanties donnés",0411,041,0,,Asset,MAD
+Débiteurs pour avals et cautions donnés,"Avals, cautions et garanties donnés",0419,041,0,,Asset,MAD
+Engagements en matière de pensions de retraite et obligations similaires,Engagements en matière de pensions de retraite et obligations similaires,0431,043,0,,Asset,MAD
+Débiteurs pour engagements en matière de pensions de retraite et obligations similaires,Engagements en matière de pensions de retraite et obligations similaires,0439,043,0,,Asset,MAD
+Effet circulant sous l’endos de l’entreprise,Effet circulant sous l’endos de l’entreprise,0451,045,0,,Asset,MAD
+Débiteurs pour effets circulant sous l’endos de l’entreprise,Effet circulant sous l’endos de l’entreprise,0459,045,0,,Asset,MAD
+Prêt consentis non encore versés,Engagements donnés pour prêt consentis,0461,046,0,,Asset,MAD
+Débiteurs pour prêts consentis non encore versés,Engagements donnés pour prêt consentis,0469,046,0,,Asset,MAD
+Autres engagement donnés,Autres engagement donnés,0481,048,0,,Asset,MAD
+Débiteurs pour autres engagements donnés,Autres engagement donnés,0489,048,0,,Asset,MAD
+"Avals, cautions et garanties reçus","Avals, cautions et garanties reçus",0511,051,0,,Asset,MAD
+"Créditeurs pour avals, cautions et garanties reçus","Avals, cautions et garanties reçus",0519,051,0,,Asset,MAD
+Biens détenus en garantie par l’entreprise,Biens détenus en garantie par l’entreprise,0551,055,0,,Asset,MAD
+Créditeurs pour biens détenus en garantie par l’entreprise,Biens détenus en garantie par l’entreprise,0559,055,0,,Asset,MAD
+Emprunts non encore encaissés,Engagement reçus sur dettes de financement,0561,056,0,,Asset,MAD
+Créditeurs pour engagements non encore encaissés,Engagement reçus sur dettes de financement,0569,056,0,,Asset,MAD
+Montant non utilisé des découverts autorisés,Engagement reçus sur trésorerie,0571,057,0,,Asset,MAD
+Plafond d’escompte non utilisé,Engagement reçus sur trésorerie,0572,057,0,,Asset,MAD
+Créditeurs par engagements reçus sur trésorerie,Engagement reçus sur trésorerie,0579,057,0,,Asset,MAD
+Autres engagements reçus,Autres engagements reçus,0581,058,0,,Asset,MAD
+Créditeurs pour autres engagements reçus,Autres engagements reçus,0589,058,0,,Asset,MAD
+Redevances de crédit-bail restant à courir,Engagements de crédit-bail restant à courir,0611,061,0,,Asset,MAD
+Débiteurs pour redevances de crédit-bail restant à courir,Engagements de crédit-bail restant à courir,0619,061,0,,Asset,MAD
+Engagements reçus pour utilisation en crédit-bail,Engagements reçus pour utilisation en crédit-bail,0651,065,0,,Asset,MAD
+Créditeurs pour engagements reçus pour utilisation en crédit-bail,Engagements reçus pour utilisation en crédit-bail,0659,065,0,,Asset,MAD
+Autres comptes spéciaux,Autres comptes spéciaux,0811,081,0,,Asset,MAD
+Contrepartie des autres comptes spéciaux,Autres comptes spéciaux,0819,081,0,,Asset,MAD
+Capital social,Capital social ou personnel,1111,111,0,Equity,Equity,MAD
+Fonds de dotation,Capital social ou personnel,1112,111,0,,Equity,MAD
+Capital personnel,Capital social ou personnel,1117,111,1,,Equity,MAD
+"Actionnaires, capital souscrit-non appelé",Capital social ou personnel,1119,111,0,,Equity,MAD
+Primes d'émission,"Primes d'émission, de fusion et d'apport",1121,112,0,,Equity,MAD
+Primes de fusion,"Primes d'émission, de fusion et d'apport",1122,112,0,,Equity,MAD
+Primes d'apport,"Primes d'émission, de fusion et d'apport",1123,112,0,,Equity,MAD
+Ecarts de réévaluation,Ecarts de réévaluation,1130,113,0,,Equity,MAD
+Réserve légale,Réserve légale,1140,114,0,,Equity,MAD
+Réserves statutaires ou contractuelles,Autres réserves,1151,115,0,,Equity,MAD
+Réserves facultatives,Autres réserves,1152,115,0,,Equity,MAD
+Réserves réglementées,Autres réserves,1155,115,0,,Equity,MAD
+Report à nouveau (solde créditeur),Report à nouveau,1161,116,0,Equity,Equity,MAD
+Report à nouveau (solde débiteur),Report à nouveau,1169,116,0,,Equity,MAD
+Résultats nets en instance d'affectation (solde créditeur),Résultats nets en instance d'affectation,1181,118,0,,Equity,MAD
+Résultats nets en instance d'affectation (solde débiteur),Résultats nets en instance d'affectation,1189,118,0,,Equity,MAD
+Résultat net de l'exercice (solde créditeur),Résultat net de l'exercice,1191,119,0,Equity,Equity,MAD
+Résultat net de l'exercice (solde débiteur),Résultat net de l'exercice,1199,119,0,,Equity,MAD
+Subventions d'investissement reçues,Subventions d'investissement,1311,131,0,,Equity,MAD
+Subventions d'investissement inscrites au CPC,Subventions d'investissement,1319,131,0,,Equity,MAD
+Provisions pour amortissements dérogatoires,Provisions réglementées,1351,135,0,,Equity,MAD
+Provisions pour plus-values en instance d'imposition,Provisions réglementées,1352,135,0,,Equity,MAD
+Provisions pour investissements,Provisions réglementées,1354,135,0,,Equity,MAD
+Provisions pour reconstitution des gisements,Provisions réglementées,1355,135,0,,Equity,MAD
+Provisions pour acquisition et construction de logements,Provisions réglementées,1356,135,0,,Equity,MAD
+Autres provisions réglementées,Provisions réglementées,1358,135,0,,Equity,MAD
+Emprunts obligataires,Emprunts obligataires,1410,141,0,,Liability,MAD
+Emprunts auprès des établissements de crédit,Autres dettes de financement,1481,148,0,,Liability,MAD
+Avances de l'Etat,Autres dettes de financement,1482,148,0,,Liability,MAD
+Dettes rattachées à des participations,Autres dettes de financement,1483,148,0,,Liability,MAD
+Billets de fonds,Autres dettes de financement,1484,148,0,,Liability,MAD
+Avances reçues et comptes courants bloqués,Autres dettes de financement,1485,148,0,,Liability,MAD
+Fournisseurs d'immobilisation,Autres dettes de financement,1486,148,0,,Liability,MAD
+Dépôts et cautionnements reçues,Autres dettes de financement,1487,148,0,,Liability,MAD
+Dettes de financement diverses,Autres dettes de financement,1488,148,0,,Liability,MAD
+Provisions pour litiges,Provisions pour risques,1511,151,0,,Liability,MAD
+Provisions pour garanties données aux clients,Provisions pour risques,1512,151,0,,Liability,MAD
+Provisions pour propre assureur,Provisions pour risques,1513,151,0,,Liability,MAD
+Provision pour pertes sur marchés à terme,Provisions pour risques,1514,151,0,,Liability,MAD
+"Provisions pour amendes, double droits, pénalités",Provisions pour risques,1515,151,0,,Liability,MAD
+Provisions pour pertes de change,Provisions pour risques,1516,151,0,,Liability,MAD
+Autres provisions pour risques,Provisions pour risques,1518,151,0,,Liability,MAD
+Provisions pour impôts,Provisions pour charges,1551,155,0,,Liability,MAD
+Provisions pour pensions de retraite et obligations similaires,Provisions pour charges,1552,155,0,,Liability,MAD
+Provisions pour charges à répartir sur plusieurs exercices,Provisions pour charges,1555,155,0,,Liability,MAD
+Autres provisions pour charges,Provisions pour charges,1558,155,0,,Liability,MAD
+Comptes de liaison du siège,Comptes de liaison des établissements et succursales,1601,160,0,,Equity,MAD
+Comptes de liaison des établissements,Comptes de liaison des établissements et succursales,1605,160,0,,Equity,MAD
+Augmentation des créances immobilisées,Augmentation des créances immobilisées,1710,171,0,,Equity,MAD
+Diminution des dettes de financement,Diminution des dettes de financement,1720,172,0,,Equity,MAD
+Frais de constitution,Frais préliminaires,2111,211,0,Fixed Asset,Asset,MAD
+Frais préalables au démarrage,Frais préliminaires,2112,211,0,,Asset,MAD
+Frais d'augmentation du capital,Frais préliminaires,2113,211,0,,Asset,MAD
+"Frais sur opérations de fusions, scissions et transformations",Frais préliminaires,2114,211,0,,Asset,MAD
+Frais de prospection,Frais préliminaires,2116,211,0,,Asset,MAD
+Frais de publicité,Frais préliminaires,2117,211,0,,Asset,MAD
+Autres frais préliminaires,Frais préliminaires,2118,211,0,,Asset,MAD
+Frais d'acquisitition des immobilisations,Charges à répartir sur plusieurs exercices,2121,212,0,,Asset,MAD
+Frais d'émission des emprunts,Charges à répartir sur plusieurs exercices,2125,212,0,,Asset,MAD
+Autres charges à répartir,Charges à répartir sur plusieurs exercices,2128,212,0,,Asset,MAD
+Primes de remboursement des obligations,Primes de remboursement des obligations,2130,213,0,,Asset,MAD
+Immobilisation en recherche et développement,Immobilisation en recherche et développement,2210,221,0,,Asset,MAD
+"Brevets, marques, droits et valeurs similaires","Brevets, marques, droits et valeurs similaires",2220,222,0,,Asset,MAD
+Fonds commercial,Fonds commercial,2230,223,0,,Asset,MAD
+Autres immobilisations incorporelles,Autres immobilisations incorporelles,2285,228,0,,Asset,MAD
+Terrains nus,Terrains,2311,231,0,,Asset,MAD
+Terrains aménagés,Terrains,2312,231,0,,Asset,MAD
+Terrains bâtis,Terrains,2313,231,0,,Asset,MAD
+Terrains de gisement,Terrains,2314,231,0,,Asset,MAD
+Agencements et aménagements de terrains,Terrains,2316,231,0,,Asset,MAD
+Autres terrains,Terrains,2318,231,0,,Asset,MAD
+Bâtiments,Constructions,2321,232,1,Fixed Asset,Asset,MAD
+Constructions sur terrains d'autrui,Constructions,2323,232,0,,Asset,MAD
+Ouvrages d'infrastructure,Constructions,2325,232,0,,Asset,MAD
+Agencements et aménagements des constructions,Constructions,2327,232,0,,Asset,MAD
+Autres constructions,Constructions,2328,232,0,,Asset,MAD
+Installations techniques,"Installations techniques, matériel et outillage",2331,233,0,,Asset,MAD
+Matériel et outillage,"Installations techniques, matériel et outillage",2332,233,1,Fixed Asset,Asset,MAD
+Emballages récupérables identifiables,"Installations techniques, matériel et outillage",2333,233,0,,Asset,MAD
+"Autres installations techniques, matériel et outillage","Installations techniques, matériel et outillage",2338,233,0,,Asset,MAD
+Matériel de transport,Matériel de transport,2340,234,0,Fixed Asset,Asset,MAD
+Mobilier de bureau,"Mobilier, matériel de bureau et aménagements divers",2351,235,0,,Asset,MAD
+Matériel de bureau,"Mobilier, matériel de bureau et aménagements divers",2352,235,0,,Asset,MAD
+Matériel informatique,"Mobilier, matériel de bureau et aménagements divers",2355,235,0,Fixed Asset,Asset,MAD
+"Agencements, installations et aménagements divers (biens n'appartenant pas à l'entreprise)","Mobilier, matériel de bureau et aménagements divers",2356,235,0,,Asset,MAD
+"Autres mobilier, matériel de bureau et aménagements divers","Mobilier, matériel de bureau et aménagements divers",2358,235,0,,Asset,MAD
+Autres immobilisations corporelles,Autres immobilisations corporelles,2380,238,0,,Asset,MAD
+Immobilisations corporelles en cours des terrains et constructions,Immobilisations corporelles en cours,2392,239,0,,Asset,MAD
+"Immobilisations corporelles en cours des installations techniques, matériel et outillage",Immobilisations corporelles en cours,2393,239,0,,Asset,MAD
+Immobilisations corporelles en cours de matériel de transport,Immobilisations corporelles en cours,2394,239,0,,Asset,MAD
+"Immobilisations corporelles en cours de mobilier, matériel de bureau et aménagements divers",Immobilisations corporelles en cours,2395,239,0,,Asset,MAD
+Avances et acomptes versés sur commandes d'immobilisations corporelles,Immobilisations corporelles en cours,2397,239,0,,Asset,MAD
+Autres immobilisations corporelles en cours,Immobilisations corporelles en cours,2398,239,0,,Asset,MAD
+Prêts aux associés,Prêts immobilsés,2415,241,0,,Asset,MAD
+Billets de fonds,Prêts immobilsés,2416,241,0,,Asset,MAD
+Autres prêts,Prêts immobilsés,2418,241,0,,Asset,MAD
+Prêts au personnel,IMMOBILSATIONS FINANCIERES,2441,24_25,0,,Asset,MAD
+Titres immobilisés (droits de créance),Autres créances financières,2481,248,1,,Asset,MAD
+Créances rattachées à des participations,Autres créances financières,2483,248,0,,Asset,MAD
+Dépôts et cautionnements versés,Autres créances financières,2486,248,1,,Asset,MAD
+Créances immobilisées,Autres créances financières,2487,248,0,,Asset,MAD
+Créances financères diverses,Autres créances financières,2488,248,0,,Asset,MAD
+Titres de participation,Titres de participation,2510,251,0,,Asset,MAD
+Actions,Autres titres immobilisés,2581,258,0,,Asset,MAD
+Titres divers,Autres titres immobilisés,2588,258,0,,Asset,MAD
+Diminution des créances immobilisées,Diminution des créances immobilisées,2710,271,0,,Asset,MAD
+Augmentation des dettes de financement,Augmentation des dettes de financement,2720,272,0,,Asset,MAD
+Amortissements des frais préliminaires,Amortissements des non-valeurs,2811,281,1,,Asset,MAD
+Amortissements des charges à répartir,Amortissements des non-valeurs,2812,281,1,,Asset,MAD
+Amortissements des primes de remboursement des obligations,Amortissements des non-valeurs,2813,281,1,,Asset,MAD
+Amortissements de l'immobilisation en recherche et développement,Amortissements des immobilisations incorporelles,2821,282,0,,Asset,MAD
+"Amortissements des brevets, marques, droits et valeurs similaires",Amortissements des immobilisations incorporelles,2822,282,0,,Asset,MAD
+Amortissements du fonds commercial,Amortissements des immobilisations incorporelles,2823,282,0,,Asset,MAD
+Amortissements des autres immobilisations incorporelles,Amortissements des immobilisations incorporelles,2828,282,0,,Asset,MAD
+Amortissements des terrains,Amortissements des immobilisations corporelles,2831,283,1,,Asset,MAD
+Amortissements des constructions,Amortissements des immobilisations corporelles,2832,283,1,,Asset,MAD
+"Amortissements des installations techniques, matériel et outillage",Amortissements des immobilisations corporelles,2833,283,1,,Asset,MAD
+Amortissements du matériel de transport,Amortissements des immobilisations corporelles,2834,283,0,,Asset,MAD
+"Amortissements du mobilier, matériel de bureau et aménagements divers",Amortissements des immobilisations corporelles,2835,283,1,,Asset,MAD
+Amortissements des autres immobilisations corporelles,Amortissements des immobilisations corporelles,2838,283,0,,Asset,MAD
+Provisions pour dépréciation des immobilisations incorporelles,Provisions pour dépréciation des immobilisations incorporelles,2920,292,0,,Asset,MAD
+Provisions pour dépréciation des immobilisations corporelles,Provisions pour dépréciation des immobilisations corporelles,2930,293,0,,Asset,MAD
+Provisions pour dépréciation des prêts immobilisés,PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS,2941,29,0,,Asset,MAD
+Provisions pour dépréciation des autres créances financières,PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS,2948,29,0,,Asset,MAD
+Provisions pour dépréciation des titres de participation,PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS,2951,29,0,,Asset,MAD
+Provisions pour dépréciation des autres titres immobilisés,PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS,2958,29,0,,Asset,MAD
+Marchandises (groupe A),Marchandises,3111,311,0,Stock,Asset,MAD
+Marchandises (groupe B),Marchandises,3112,311,0,,Asset,MAD
+Marchandises en cours de route,Marchandises,3116,311,0,,Asset,MAD
+Autres marchandises,Marchandises,3118,311,0,,Asset,MAD
+Matières premières,Matières et fournitures consommables,3121,312,1,Stock,Asset,MAD
+Matières et fournitures consommables,Matières et fournitures consommables,3122,312,1,,Asset,MAD
+Emballages,Matières et fournitures consommables,3123,312,1,,Asset,MAD
+Matières et fournitures consommables en cours de route,Matières et fournitures consommables,3126,312,0,,Asset,MAD
+Autres matières et fournitures consommables,Matières et fournitures consommables,3128,312,0,,Asset,MAD
+Biens en cours,Produits en cours,3131,313,1,,Asset,MAD
+Services en cours,Produits en cours,3134,313,1,,Asset,MAD
+Autres produits en cours,Produits en cours,3138,313,0,,Asset,MAD
+Produits intermédiaires,Produits intermédiaires et produits résiduels,3141,314,1,,Asset,MAD
+Produits résiduels (ou matières de récupération),Produits intermédiaires et produits résiduels,3145,314,1,,Asset,MAD
+Autres produits intermédiaires et produits résiduels,Produits intermédiaires et produits résiduels,3148,314,0,,Asset,MAD
+Produits finis (groupe A),Produits finis,3151,315,0,Stock,Asset,MAD
+Produits finis (groupe B),Produits finis,3152,315,0,,Asset,MAD
+Produits finis en cours de route,Produits finis,3156,315,0,,Asset,MAD
+Autres produits finis,Produits finis,3158,315,0,,Asset,MAD
+Fournisseurs - avances et acomptes versés sur commandes d'exploitation,"Fournisseurs débiteurs, avances et acomptes",3411,341,0,,Asset,MAD
+Fournisseurs - créances pour emballages et matériel à rendre,"Fournisseurs débiteurs, avances et acomptes",3413,341,0,,Asset,MAD
+"Rabais, remises et ristournes à obtenir - avoirs non encore reçus","Fournisseurs débiteurs, avances et acomptes",3417,341,0,,Asset,MAD
+Autres fournisseurs débiteurs,"Fournisseurs débiteurs, avances et acomptes",3418,341,0,,Asset,MAD
+Clients,Clients et comptes rattachés,3421,342,1,Receivable,Asset,MAD
+Clients - retenues de garantie,Clients et comptes rattachés,3423,342,0,,Asset,MAD
+Clients douteux ou litigieux,Clients et comptes rattachés,3424,342,0,,Asset,MAD
+Clients - effets à recevoir,Clients et comptes rattachés,3425,342,0,,Asset,MAD
+Clients - factures à établir et créances sur travaux non encore facturés,Clients et comptes rattachés,3427,342,1,,Asset,MAD
+Autres clients et comptes rattachés,Clients et comptes rattachés,3428,342,0,,Asset,MAD
+Avances et acomptes au personnel,Personnel - débiteur,3431,343,0,,Asset,MAD
+Personnel - autres débiteurs,Personnel - débiteur,3438,343,0,,Asset,MAD
+Subventions à recevoir,Etat - débiteur,3451,345,1,,Asset,MAD
+Acomptes sur impôts sur les résultats,Etat - débiteur,3453,345,0,,Asset,MAD
+Etat - TVA récupérable,Etat - débiteur,3455,345,1,Tax,Asset,MAD
+Etat - crédit de TVA (suivant déclaration),Etat - débiteur,3456,345,0,,Asset,MAD
+Etat - autres comptes débiteurs,Etat - débiteur,3458,345,0,,Asset,MAD
+Associés - comptes d'apport en société,Comptes d'associés - débiteurs,3461,346,0,,Asset,MAD
+Actionnaires - capital souscrit et appelé non versé,Comptes d'associés - débiteurs,3462,346,0,,Asset,MAD
+Comptes courants des associés débiteurs,Comptes d'associés - débiteurs,3463,346,0,,Asset,MAD
+Associés - opérations faites en commun,Comptes d'associés - débiteurs,3464,346,0,,Asset,MAD
+Créances rattachées aux comptes d'associés,Comptes d'associés - débiteurs,3467,346,0,,Asset,MAD
+Autres comptes d'associés débiteurs,Comptes d'associés - débiteurs,3468,346,0,,Asset,MAD
+Créances sur cessions d'immobilisations,Autres débiteurs,3481,348,0,,Asset,MAD
+Créances sur cessions d'éléments d'actif circulant,Autres débiteurs,3482,348,0,,Asset,MAD
+Créances rattachées aux autres débiteurs,Autres débiteurs,3487,348,0,,Asset,MAD
+Divers débiteurs,Autres débiteurs,3488,348,0,,Asset,MAD
+Charges constatées d'avance,Comptes de régularisation - actif,3491,349,0,,Asset,MAD
+Intérêts courus et non échus à percevoir,Comptes de régularisation - actif,3493,349,0,,Asset,MAD
+Comptes de répartition périodique des charges,Comptes de régularisation - actif,3495,349,0,,Asset,MAD
+Comptes transitoires ou d'attente - débiteurs,Comptes de régularisation - actif,3497,349,0,,Asset,MAD
+"Actions, partie libérée",Titres et valeurs de placement,3501,350,0,,Asset,MAD
+"Actions, partie non libérée",Titres et valeurs de placement,3502,350,0,,Asset,MAD
+Obligations,Titres et valeurs de placement,3504,350,0,,Asset,MAD
+Bons de caisse et bons de trésor,Titres et valeurs de placement,3506,350,1,,Asset,MAD
+Autres titres et valeurs de placement similaires,Titres et valeurs de placement,3508,350,0,,Asset,MAD
+Diminution des créances circulantes,Ecart de conversion - Actif (éléments circulants),3701,370,0,,Asset,MAD
+Augmentation des dettes circulantes,Ecart de conversion - Actif (éléments circulants),3702,370,0,,Asset,MAD
+Provisions pour dépréciation des marchandises,Provisions pour dépréciation des stocks,3911,391,0,,Asset,MAD
+Provisions pour dépréciation des matières et fournitures,Provisions pour dépréciation des stocks,3912,391,0,,Asset,MAD
+Provisions pour dépréciation des produits en cours,Provisions pour dépréciation des stocks,3913,391,0,,Asset,MAD
+Provisions pour dépréciation des produits intermédiaires,Provisions pour dépréciation des stocks,3914,391,0,,Asset,MAD
+Provisions pour dépréciation des produits finis,Provisions pour dépréciation des stocks,3915,391,0,,Asset,MAD
+"Provisions pour dépréciation - fournisseurs débiteurs, avances et acomptes",Provisions pour dépréciation des créances de l'actif circulant,3941,394,0,,Asset,MAD
+Provisions pour dépréciation des clients et comptes rattachés,Provisions pour dépréciation des créances de l'actif circulant,3942,394,0,,Asset,MAD
+Provisions pour dépréciation du personnel - débiteur,Provisions pour dépréciation des créances de l'actif circulant,3943,394,0,,Asset,MAD
+Provisions pour dépréciation des comptes d'associés débiteurs,Provisions pour dépréciation des créances de l'actif circulant,3946,394,0,,Asset,MAD
+Provisions pour dépréciation des autres débiteurs,Provisions pour dépréciation des créances de l'actif circulant,3948,394,0,,Asset,MAD
+Provisions pour dépréciation des titres et valeurs de placement,Provisions pour dépréciation des titres et valeurs de placement,3950,395,0,,Asset,MAD
+Fournisseurs,Fournisseurs et comptes rattachés,4411,441,1,Payable,Liability,MAD
+Fournisseurs - retenues de garantie,Fournisseurs et comptes rattachés,4413,441,0,,Liability,MAD
+Fournisseurs - effets à payer,Fournisseurs et comptes rattachés,4415,441,0,,Liability,MAD
+Fournisseurs - factures non parvenues,Fournisseurs et comptes rattachés,4417,441,0,,Liability,MAD
+Autres fournisseurs et comptes rattachés,Fournisseurs et comptes rattachés,4418,441,0,,Liability,MAD
+Clients - avances et acomptes reçus sur commandes en cours,"Clients créditeurs, avances et acomptes",4421,442,0,,Liability,MAD
+Clients - dettes pour emballages et matériel consignés,"Clients créditeurs, avances et acomptes",4425,442,0,,Liability,MAD
+"Rabais, remises et ristournes à accorder - avoirs à établir","Clients créditeurs, avances et acomptes",4427,442,0,,Liability,MAD
+Autres clients créditeurs,"Clients créditeurs, avances et acomptes",4428,442,0,,Liability,MAD
+Rémunérations dues au personnel,Personnel - créditeur,4432,443,0,,Liability,MAD
+Dépôts du personnel créditeurs,Personnel - créditeur,4433,443,0,,Liability,MAD
+Oppositions sur salaires,Personnel - créditeur,4434,443,0,,Liability,MAD
+Charges du personnel à payer,Personnel - créditeur,4437,443,0,,Liability,MAD
+Personnel - autres créditeurs,Personnel - créditeur,4438,443,0,,Liability,MAD
+Caisse Nationale de la Sécurité Sociale,Organismes sociaux,4441,444,0,,Liability,MAD
+Caisses de retraite,Organismes sociaux,4443,444,0,,Liability,MAD
+Mutuelles,Organismes sociaux,4445,444,0,,Liability,MAD
+Charges sociales à payer,Organismes sociaux,4447,444,0,,Liability,MAD
+Autres organismes sociaux,Organismes sociaux,4448,444,0,,Liability,MAD
+"Etat Impôts, taxes et assimilés",Etat - créditeur,4452,445,1,,Liability,MAD
+"Etat, impôts sur les résultats",Etat - créditeur,4453,445,0,,Liability,MAD
+"Etat, TVA facturée",Etat - créditeur,4455,445,0,Tax,Liability,MAD
+"Etat, TVA due (suivant déclarations)",Etat - créditeur,4456,445,0,,Liability,MAD
+"Etat, impôts et taxes à payer",Etat - créditeur,4457,445,0,,Liability,MAD
+Etat - autres comptes créditeurs,Etat - créditeur,4458,445,0,,Liability,MAD
+Associés - capital à rembourser,Comptes d'associés - créditeurs,4461,446,0,,Liability,MAD
+Associés - versements reçus sur augmentation de capital,Comptes d'associés - créditeurs,4462,446,0,,Liability,MAD
+Comptes courants des associés créditeurs,Comptes d'associés - créditeurs,4463,446,0,,Liability,MAD
+Associés - opérations faites en commun,Comptes d'associés - créditeurs,4464,446,0,,Liability,MAD
+Associés - dividendes à payer,Comptes d'associés - créditeurs,4465,446,0,,Liability,MAD
+Autres comptes d'associés - créditeurs,Comptes d'associés - créditeurs,4468,446,0,,Liability,MAD
+Dettes sur acquisitions d'immobilisations,Autres créanciers,4481,448,0,,Liability,MAD
+Dettes sur acquisitions de titres et valeurs de placement,Autres créanciers,4483,448,0,,Liability,MAD
+Obligations échues à rembourser,Autres créanciers,4484,448,0,,Liability,MAD
+"Obligations, coupons à payer",Autres créanciers,4485,448,0,,Liability,MAD
+Dettes rattachées aux autres créanciers,Autres créanciers,4487,448,0,,Liability,MAD
+Divers créanciers,Autres créanciers,4488,448,0,,Liability,MAD
+Produits constatés d'avance,Comptes de régularisation - passif,4491,449,0,,Liability,MAD
+Intérêts courus et non échus à payer,Comptes de régularisation - passif,4493,449,0,,Liability,MAD
+Comptes de répartition périodique des produits,Comptes de régularisation - passif,4495,449,0,,Liability,MAD
+Comptes transitoires ou d'attente - créditeurs,Comptes de régularisation - passif,4497,449,0,,Liability,MAD
+Provisions pour litiges,Autres provisions pour risques et charges,4501,450,0,,Liability,MAD
+Provisions pour garanties données aux clients,Autres provisions pour risques et charges,4502,450,0,,Liability,MAD
+"Provisions pour amendes, doubles droits et pénalités",Autres provisions pour risques et charges,4505,450,0,,Liability,MAD
+Provisions pour pertes de change,Autres provisions pour risques et charges,4506,450,0,,Liability,MAD
+Provisions pour impôts,Autres provisions pour risques et charges,4507,450,0,,Liability,MAD
+Autres provisions pour risques et charges,Autres provisions pour risques et charges,4508,450,0,,Liability,MAD
+Augmentation des créances circulantes,Ecarts de conversion - passif (Eléments circulants),4701,470,0,,Liability,MAD
+Diminution des dettes circulantes,Ecarts de conversion - passif (Eléments circulants),4702,470,0,,Liability,MAD
+Chèques à encaisser ou à l'encaissement,Chèques et valeurs à encaisser,5111,511,1,Cash,Asset,MAD
+Effets à encaisser ou à l'encaissement,Chèques et valeurs à encaisser,5113,511,1,,Asset,MAD
+Virement de fonds,Chèques et valeurs à encaisser,5115,511,0,,Asset,MAD
+Autres valeurs à encaisser,Chèques et valeurs à encaisser,5118,511,0,,Asset,MAD
+Banques (solde débiteur),"Banques, Trésorerie Générale et chèques postaux débiteurs",5141,514,0,Bank,Asset,MAD
+Trésorerie Générale,"Banques, Trésorerie Générale et chèques postaux débiteurs",5143,514,0,,Asset,MAD
+Chèques postaux,"Banques, Trésorerie Générale et chèques postaux débiteurs",5146,514,0,,Asset,MAD
+Autres établissements financiers et assimilés (soldes débiteurs),"Banques, Trésorerie Générale et chèques postaux débiteurs",5148,514,0,,Asset,MAD
+Caisses,"Caisses, régies d'avances et accréditifs",5161,516,1,Cash,Asset,MAD
+Régies d'avances et accréditifs,"Caisses, régies d'avances et accréditifs",5165,516,0,,Asset,MAD
+Crédits d'escompte,Crédits d'escompte,5520,552,0,,Liability,MAD
+Crédits de trésorerie,Crédits de trésorerie,5530,553,0,,Liability,MAD
+Banques (solde créditeur),Banques (solde créditeur),5541,554,0,,Liability,MAD
+Autres établissements financiers et assimilés (soldes créditeurs),Banques (solde créditeur),5548,554,0,,Liability,MAD
+Provisions pour dépréciation des comptes de trésorerie,Provisions pour dépréciation des comptes de trésorerie,5900,590,0,,Liability,MAD
+"Achats de marchandises ""groupe A""",Achats revendus de marchandises,6111,611,0,,Expense,MAD
+"Achats de marchandises ""groupe B""",Achats revendus de marchandises,6112,611,0,,Expense,MAD
+Variation de stocks de marchandises,Achats revendus de marchandises,6114,611,0,,Expense,MAD
+Achats revendus de marchandises des exercices antérieurs,Achats revendus de marchandises,6118,611,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur achats de marchandises",Achats revendus de marchandises,6119,611,0,,Expense,MAD
+Achats de matières premières,Achats consommés de matières et fournitures,6121,612,1,,Expense,MAD
+Achats de matières et fournitures consommables,Achats consommés de matières et fournitures,6122,612,1,,Expense,MAD
+Achats d'emballages,Achats consommés de matières et fournitures,6123,612,1,,Expense,MAD
+Variation des stocks de matières et fournitures,Achats consommés de matières et fournitures,6124,612,1,,Expense,MAD
+Achats non stockés de matières et fournitures,Achats consommés de matières et fournitures,6125,612,1,,Expense,MAD
+"Achats de travaux, études et prestations de service",Achats consommés de matières et fournitures,6126,612,1,,Expense,MAD
+Achats de matières et de fournitures des exercices antérieurs,Achats consommés de matières et fournitures,6128,612,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures",Achats consommés de matières et fournitures,6129,612,1,,Expense,MAD
+Locations et charges locatives,CHARGES D'EXPLOITATION,6131,61,1,,Expense,MAD
+Redevances de crédit-bail,CHARGES D'EXPLOITATION,6132,61,1,,Expense,MAD
+Entretien et réparations,CHARGES D'EXPLOITATION,6133,61,1,,Expense,MAD
+Primes d'assurances,CHARGES D'EXPLOITATION,6134,61,1,,Expense,MAD
+Rémunérations du personnel extérieur à l'entreprise,CHARGES D'EXPLOITATION,6135,61,1,,Expense,MAD
+Rémunérations d'intermédiaires et honoraires,CHARGES D'EXPLOITATION,6136,61,1,,Expense,MAD
+"Redevances pour brevets, marques, droits et valeurs similaires",CHARGES D'EXPLOITATION,6137,61,1,,Expense,MAD
+"Etudes, recherches et documentation",CHARGES D'EXPLOITATION,6141,61,1,,Expense,MAD
+Transports,CHARGES D'EXPLOITATION,6142,61,1,,Expense,MAD
+"Déplacements, missions et réceptions",CHARGES D'EXPLOITATION,6143,61,1,,Expense,MAD
+"Publicité, publications et relations publiques",CHARGES D'EXPLOITATION,6144,61,1,,Expense,MAD
+Frais postaus et frais de télécommunications,CHARGES D'EXPLOITATION,6145,61,1,,Expense,MAD
+Cotisations et dons,CHARGES D'EXPLOITATION,6146,61,1,,Expense,MAD
+Services bancaires,CHARGES D'EXPLOITATION,6147,61,1,,Expense,MAD
+Autres charges externes des exercices antérieurs,CHARGES D'EXPLOITATION,6148,61,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur autres charges externes",CHARGES D'EXPLOITATION,6149,61,0,,Expense,MAD
+Impôts et taxes directs,Impôts et taxes,6161,616,1,Tax,Expense,MAD
+Impôts et taxes directs,Impôts et taxes,6165,616,0,Tax,Expense,MAD
+"Impôts, taxes et droits assimilés",Impôts et taxes,6167,616,1,Tax,Expense,MAD
+Impôts et taxes des exercices antérieurs,Impôts et taxes,6168,616,0,,Expense,MAD
+Rémunérations du personnel,Charges de personnel,6171,617,1,,Expense,MAD
+Charges sociales,Charges de personnel,6174,617,1,,Expense,MAD
+Charges sociales diverses,Charges de personnel,6176,617,1,,Expense,MAD
+Rémunération de l'exploitant,Charges de personnel,6177,617,1,,Expense,MAD
+Charges du personnel des exercices antérieurs,Charges de personnel,6178,617,0,,Expense,MAD
+Jetons de présence,Autres charges d'exploitation,6181,618,0,,Expense,MAD
+Pertes sur créances irrécouvrables,Autres charges d'exploitation,6182,618,0,,Expense,MAD
+Pertes sur opérations faites en commun,Autres charges d'exploitation,6185,618,0,,Expense,MAD
+Transfert de profits sur opérations faites en commun,Autres charges d'exploitation,6186,618,0,,Expense,MAD
+Autres charges d’exploitation des exercices antérieurs,Autres charges d'exploitation,6188,618,0,,Expense,MAD
+Dotations d’exploitation aux amortissements de l’immobilisation en non valeur,Dotations d’exploitation,6191,619,1,,Expense,MAD
+Dotations d’exploitation aux amortissements des immobilisations incorporelles,Dotations d’exploitation,6192,619,1,,Expense,MAD
+Dotations d’exploitation aux amortissements des immobilisations corporelles,Dotations d’exploitation,6193,619,1,,Expense,MAD
+Dotations d’exploitation aux provisions pour dépréciation des immobilisations,Dotations d’exploitation,6194,619,1,,Expense,MAD
+Dotations d’exploitation aux provisions pour risques et charges,Dotations d’exploitation,6195,619,1,,Expense,MAD
+Dotations d’exploitation aux provisions pour dépréciations de l’actif circulant,Dotations d’exploitation,6196,619,1,,Expense,MAD
+Dotations d’exploitation des exercices antérieurs,Dotations d’exploitation,6198,619,1,,Expense,MAD
+Intérêts des emprunts et dettes,Charges d’intérêts,6311,631,1,,Expense,MAD
+Charges d’intérêts des exercices antérieurs,Charges d’intérêts,6318,631,0,,Expense,MAD
+Pertes de change propres à l’exercice,Pertes de change,6331,633,0,,Expense,MAD
+Pertes de change des exercices antérieurs,Pertes de change,6338,633,0,,Expense,MAD
+Pertes sur créances liées à des participations,Autres charges financières,6382,638,0,,Expense,MAD
+Charges nettes sur cession de titres et valeurs de placement,Autres charges financières,6385,638,0,,Expense,MAD
+Escomptes accordés,Autres charges financières,6386,638,0,,Expense,MAD
+Autres charges financières des exercices antérieurs,Autres charges financières,6388,638,0,,Expense,MAD
+Dotations aux amortissements des primes de remboursement des obligations,Dotations financières,6391,639,0,,Expense,MAD
+Dotations aux provisions pour dépréciations des immobilisations financières,Dotations financières,6392,639,0,,Expense,MAD
+Dotations aux provisions pour risques et charges financières,Dotations financières,6393,639,0,,Expense,MAD
+Dotation aux provisions pour dépréciation des titres et valeurs de placement,Dotations financières,6394,639,0,,Expense,MAD
+Dotations financières des exercices antérieurs,Dotations financières,6398,639,0,,Expense,MAD
+VNA des immobilisations incorporelles cédées,Valeurs nettes d’amortissements des immobilisations cédées ( V.N.A ),6512,651,0,,Expense,MAD
+VNA des immobilisations corporelles cédées,Valeurs nettes d’amortissements des immobilisations cédées ( V.N.A ),6513,651,0,,Expense,MAD
+VNA provisions des immobilisations financières cédées (droits de propriété),Valeurs nettes d’amortissements des immobilisations cédées ( V.N.A ),6514,651,0,,Expense,MAD
+VNA des immobilisations cédées des exercices antérieurs,Valeurs nettes d’amortissements des immobilisations cédées ( V.N.A ),6518,651,0,,Expense,MAD
+Subventions accordées de l’exercice,Subventions accordées,6561,656,0,,Expense,MAD
+Subventions accordées des exercices antérieurs,Subventions accordées,6568,656,0,,Expense,MAD
+Pénalités sur marchés et dédits,Autres charges non courantes,6581,658,1,,Expense,MAD
+Rappels d’impôts (autres qu’impôts sur les résultats),Autres charges non courantes,6582,658,0,,Expense,MAD
+Pénalités et amendes fiscales ou pénales,Autres charges non courantes,6583,658,1,,Expense,MAD
+Créances devenues irrécouvrables,Autres charges non courantes,6585,658,0,,Expense,MAD
+"Dons, libéralités et lots",Autres charges non courantes,6586,658,1,,Expense,MAD
+Autres charges non courantes des exercices antérieurs,Autres charges non courantes,6588,658,0,,Expense,MAD
+Dotations aux amortissements exceptionnels des immobilisations,Dotations non courantes,6591,659,1,,Expense,MAD
+Dotations non courantes aux provisions réglementées,Dotations non courantes,6594,659,1,,Expense,MAD
+Dotations non courantes aux provisions pour risques et charges,Dotations non courantes,6595,659,1,,Expense,MAD
+Dotations non courantes aux provisions pour dépréciation,Dotations non courantes,6596,659,1,,Expense,MAD
+Dotations non courantes des exercices antérieurs,Dotations non courantes,6598,659,0,,Expense,MAD
+Impôts sur les bénéfices,Impôts sur les résulatats,6701,670,0,Tax,Expense,MAD
+Imposition minimale annuelle des sociétés,Impôts sur les résulatats,6705,670,0,,Expense,MAD
+Rappels et dégrèvements d’impôts sur les résultats,Impôts sur les résulatats,6708,670,0,,Expense,MAD
+Ventes de marchandises au Maroc,Ventes de marchandises,7111,711,0,,Income,MAD
+Ventes de marchandises à l’étranger,Ventes de marchandises,7113,711,0,,Income,MAD
+Ventes de marchandises des exercices antérieurs,Ventes de marchandises,7118,711,0,,Income,MAD
+"Rabais, remises et ristournes accordés par l’entreprise",Ventes de marchandises,7119,711,0,,Income,MAD
+Ventes de biens produits au Maroc,Ventes de biens et services produits,7121,712,1,,Income,MAD
+Ventes de biens produits à l’étranger,Ventes de biens et services produits,7122,712,1,,Income,MAD
+Ventes de services produits au Maroc,Ventes de biens et services produits,7124,712,1,,Income,MAD
+Ventes de services produits à l'étranger,Ventes de biens et services produits,7125,712,1,,Income,MAD
+"Redevances pour brevets, marques, droits et valeurs similaires",Ventes de biens et services produits,7126,712,0,,Income,MAD
+Ventes de produits accessoires,Ventes de biens et services produits,7127,712,1,,Income,MAD
+Ventes de biens et services produits des exercices antérieurs,Ventes de biens et services produits,7128,712,0,,Income,MAD
+"Rabais, remises et ristournes accordés par l’entreprise",Ventes de biens et services produits,7129,712,1,,Income,MAD
+Variation des stocks de produits en cours,Variation des stocks de produits,7131,713,1,,Income,MAD
+Variation des stocks de biens produits,Variation des stocks de produits,7132,713,1,,Income,MAD
+Variation des stocks de services en cours,Variation des stocks de produits,7134,713,1,,Income,MAD
+Immobilisation en non valeurs produite,Immobilisations produites par l’entreprise pour elle même,7141,714,0,,Income,MAD
+Immobilisations incorporelles produites,Immobilisations produites par l’entreprise pour elle même,7142,714,0,,Income,MAD
+Immobilisations corporelles produites,Immobilisations produites par l’entreprise pour elle même,7143,714,0,,Income,MAD
+Immobilisations produites des exercices antérieurs,Immobilisations produites par l’entreprise pour elle même,7148,714,0,,Income,MAD
+Subventions d’exploitations reçues de l’exercice,Subventions d’exploitation,7161,716,0,,Income,MAD
+Subventions d’exploitation reçues des exercices antérieurs,Subventions d’exploitation,7168,716,0,,Income,MAD
+Jetons de présence reçus,Autres produits d’exploitation,7181,718,0,,Income,MAD
+Revenus des immeubles non affectés à l’exploitation,Autres produits d’exploitation,7182,718,0,,Income,MAD
+Profits sur opérations faites en commun,Autres produits d’exploitation,7185,718,0,,Income,MAD
+Transfert de pertes sur opérations faites en commun,Autres produits d’exploitation,7186,718,0,,Income,MAD
+Autres produits d’exploitation des exercices antérieurs,Autres produits d’exploitation,7188,718,0,,Income,MAD
+Reprises sur amortissements de l’immobilisation en non valeurs,"Reprise d’exploitation, transferts de charges",7191,719,0,,Income,MAD
+Reprises sur amortissements des immobilisations incorporelles,"Reprise d’exploitation, transferts de charges",7192,719,0,,Income,MAD
+Reprises sur amortissements des immobilisations corporelles,"Reprise d’exploitation, transferts de charges",7193,719,0,,Income,MAD
+Reprises sur provisions pour dépréciation des immobilisations,"Reprise d’exploitation, transferts de charges",7194,719,0,,Income,MAD
+Reprises sur provisions pour risques et charges,"Reprise d’exploitation, transferts de charges",7195,719,0,,Income,MAD
+Reprises sur provisions pour dépréciation de l’actif circulant,"Reprise d’exploitation, transferts de charges",7196,719,0,,Income,MAD
+Transferts des charges d’exploitation,"Reprise d’exploitation, transferts de charges",7197,719,1,,Income,MAD
+Reprises sur amortissements et provisions des exercices antérieurs,"Reprise d’exploitation, transferts de charges",7198,719,1,,Income,MAD
+Revenus des titres de participation,Produits des titres de participation et des autres titres immobilisés,7321,732,0,,Income,MAD
+Revenus des titres immobilisés,Produits des titres de participation et des autres titres immobilisés,7325,732,0,,Income,MAD
+Produits des titres de participation et des autres titres immobilisés des exercices antérieurs,Produits des titres de participation et des autres titres immobilisés,7328,732,0,,Income,MAD
+Gains de change propres à l’exercice,Gains de change,7331,733,0,,Income,MAD
+Gains de change des exercices antérieurs,Gains de change,7338,733,0,,Income,MAD
+Intérêts et produits assimilés,Intérêts et autres produits financiers,7381,738,1,,Income,MAD
+Revenus des créances rattachées à des participations,Intérêts et autres produits financiers,7383,738,0,,Income,MAD
+Revenus des titres et valeurs de placement,Intérêts et autres produits financiers,7384,738,0,,Income,MAD
+Produits nets sur cessions de titres et valeurs de placement,Intérêts et autres produits financiers,7385,738,0,,Income,MAD
+Escomptes obtenus,Intérêts et autres produits financiers,7386,738,0,,Income,MAD
+Intérêts et autres produits financiers des exercices antérieurs,Intérêts et autres produits financiers,7388,738,0,,Income,MAD
+Reprises sur amortissements des primes de remboursement des obligations,"Reprises financières, transferts de charges",7391,739,0,,Income,MAD
+Reprises sur provisions pour dépréciation des immobilisations financières,"Reprises financières, transferts de charges",7392,739,0,,Income,MAD
+Reprises sur provisions pour risques et charges financières,"Reprises financières, transferts de charges",7393,739,0,,Income,MAD
+Reprise sur provisions pour dépréciation des titres et valeurs de placement,"Reprises financières, transferts de charges",7394,739,0,,Income,MAD
+Reprises sur provisions pour dépréciation des comptes de trésorerie,"Reprises financières, transferts de charges",7396,739,0,,Income,MAD
+Transfert de charges financières,"Reprises financières, transferts de charges",7397,739,1,,Income,MAD
+Reprises sur dotations financières des exercices antérieurs,"Reprises financières, transferts de charges",7398,739,0,,Income,MAD
+Produits des cessions des immobilisations incorporelles,Produits des cessions d’immobilisations,7512,751,0,,Income,MAD
+Produits des cessions des immobilisations corporelles,Produits des cessions d’immobilisations,7513,751,0,,Income,MAD
+Produits des cessions des immobilisations financières (droits de propriété),Produits des cessions d’immobilisations,7514,751,0,,Income,MAD
+Produits des cessions des immobilisations des exercices antérieurs,Produits des cessions d’immobilisations,7518,751,0,,Income,MAD
+Subventions d’équilibre reçues de l’exercice,Subventions d’équilibre,7561,756,0,,Income,MAD
+Subventions d’équilibre reçues des exercices antérieurs,Subventions d’équilibre,7568,756,0,,Income,MAD
+Reprises sur subventions d’investissement de l’exercice,Reprise sur subventions d’investissements,7577,757,0,,Income,MAD
+Reprises sur subventions d’investissement des exercices antérieurs,Reprise sur subventions d’investissements,7578,757,0,,Income,MAD
+Pénalités et dédits reçus,Autres produits non courants,7581,758,1,,Income,MAD
+Dégrèvement d’impôts (autres qu’impôts sur les résultats),Autres produits non courants,7582,758,0,,Income,MAD
+Rentrées sur créances soldées,Autres produits non courants,7585,758,0,,Income,MAD
+"Dons, libéralités et lots reçus",Autres produits non courants,7586,758,1,,Income,MAD
+Autres produits non courants des exercices antérieurs,Autres produits non courants,7588,758,0,,Income,MAD
+Reprises non courantes sur amortissements exceptionnels des immobilisations,PRODUITS NON COURANTS,7591,75,1,,Income,MAD
+Reprises non courantes sur provisions réglementées,PRODUITS NON COURANTS,7594,75,1,,Income,MAD
+Reprises non courantes sur provisions pour risques et charges,PRODUITS NON COURANTS,7595,75,1,,Income,MAD
+Reprises non courantes sur provisions pour dépréciation,PRODUITS NON COURANTS,7596,75,1,,Income,MAD
+Transferts de charges non courantes,PRODUITS NON COURANTS,7597,75,0,,Income,MAD
+Reprises non courantes des exercices antérieurs.,PRODUITS NON COURANTS,7598,75,0,,Income,MAD
+Résultat d'exploitation,Résultat d'exploitation,8100,810,0,,Equity,MAD
+Marge brute,Marge brute,8110,811,0,,Equity,MAD
+Valeur ajoutée,Valeur ajoutée,8140,814,0,,Equity,MAD
+Excédent brut d'exploitation (créditeur),Excédent brut d'exploitation,8171,817,0,,Equity,MAD
+Insuffisance brute d'exploitation (déditeur),Excédent brut d'exploitation,8179,817,0,,Equity,MAD
+Résultat financier,Résultat financier,8300,830,0,,Equity,MAD
+Résultat courant,Résultat courant,8400,840,0,,Equity,MAD
+Résultat non courant,Résultat non courant,8500,850,0,,Equity,MAD
+Résultat avant impôts,Résultat avant impôts,8600,860,0,,Equity,MAD
+Résultat après impôts,Résultat après impôts,8800,880,0,,Equity,MAD
+Stocks réfléchis,Stocks et provisions pour dépréciation des stocks réfléchis,9031,903,0,,Equity,MAD
+Provisions pour dépréciation des stocks réfléchis,Stocks et provisions pour dépréciation des stocks réfléchis,9039,903,0,,Equity,MAD
+Charges d’exploitation réfléchies,Charges réfléchies,9061,906,0,,Equity,MAD
+Charges financières réfléchies,Charges réfléchies,9063,906,0,,Equity,MAD
+Charges non courantes réfléchies,Charges réfléchies,9065,906,0,,Equity,MAD
+Impôts sur les résultats réfléchis,Charges réfléchies,9067,906,0,,Equity,MAD
+produits d’exploitation réfléchis,Produits réfléchis,9071,907,0,,Equity,MAD
+Produits financièrs réfléchis,Produits réfléchis,9073,907,0,,Equity,MAD
+Produits non courants réfléchis,Produits réfléchis,9075,907,0,,Equity,MAD
+Résultat d’exploitation réfléchi,Résultats réfléchis,9081,908,0,,Equity,MAD
+Résultat financier réfléchi,Résultats réfléchis,9083,908,0,,Equity,MAD
+Résultat courant réfléchi,Résultats réfléchis,9084,908,0,,Equity,MAD
+Résultat non courant réfléchi,Résultats réfléchis,9085,908,0,,Equity,MAD
+Résultat avant impôts réfléchi,Résultats réfléchis,9086,908,0,,Equity,MAD
+Résultat après impôts réfléchi,Résultats réfléchis,9088,908,0,,Equity,MAD
+Section A,Sections générales,9211,921,0,,Equity,MAD
+Section B,Sections générales,9212,921,0,,Equity,MAD
+Section A,Sections d’approvisionnement,9231,923,0,,Equity,MAD
+Section B,Sections d’approvisionnement,9232,923,0,,Equity,MAD
+Section A,Sections de production,9251,925,0,,Equity,MAD
+Section B,Sections de production,9252,925,0,,Equity,MAD
+Section A,Section de distribution,9271,927,0,,Equity,MAD
+Section B,Section de distribution,9272,927,0,,Equity,MAD
+Section A,Autres sections analytiques,9281,928,0,,Equity,MAD
+Section B,Autres sections analytiques,9282,928,0,,Equity,MAD
+Coût d’achat de marchandises,Coûts d’achat,9331,933,0,,Equity,MAD
+Coûts d’achat de matière et de fournitures,Coûts d’achat,9335,933,0,,Equity,MAD
+Coûts de production des produits (groupe A),Coûts de production,9351,935,0,,Equity,MAD
+Coûts de production des produits ( groupe B),Coûts de production,9352,935,0,,Equity,MAD
+Coûts de production des immobilisations,Autres coûts d’achat ou de production,9381,938,0,,Equity,MAD
+Dotations aux provisions pour dépréciation des compte de trésoreie,COUTS D’ACHAT OU DE PRODUCTION,9396,93,0,,Equity,MAD
+Marchandises (groupe A),Inventaire permanent des marchandises,9411,941,0,,Equity,MAD
+Marchandises (groupe B),Inventaire permanent des marchandises,9412,941,0,,Equity,MAD
+Marchandises en cours de route,Inventaire permanent des marchandises,9416,941,0,,Equity,MAD
+Autres marchandises,Inventaire permanent des marchandises,9418,941,0,,Equity,MAD
+Matières premières,Inventaire permanent des matières et fournitures consommables,9421,942,0,,Equity,MAD
+Matières et fournitures consommables,Inventaire permanent des matières et fournitures consommables,9422,942,0,,Equity,MAD
+Emballages,Inventaire permanent des matières et fournitures consommables,9423,942,0,,Equity,MAD
+Matières et fournitures consommables en cours de route,Inventaire permanent des matières et fournitures consommables,9426,942,0,,Equity,MAD
+Autres matières et fournitures consommables,Inventaire permanent des matières et fournitures consommables,9428,942,0,,Equity,MAD
+Biens en cours,Inventaire permanent des produits en cours,9431,943,0,,Equity,MAD
+Services en cours,Inventaire permanent des produits en cours,9434,943,0,,Equity,MAD
+Autres produits en cours,Inventaire permanent des produits en cours,9438,943,0,,Equity,MAD
+Produits intermédiaires,Inventaire permanent des produits intermédiaires et produits résiduels,9441,944,0,,Equity,MAD
+Produits résiduels,Inventaire permanent des produits intermédiaires et produits résiduels,9445,944,0,,Equity,MAD
+Autres produits intermédiaires et produits résiduels,Inventaire permanent des produits intermédiaires et produits résiduels,9448,944,0,,Equity,MAD
+Produits finis (groupe A),Inventaire permanent des produits finis,9451,945,0,,Equity,MAD
+Produits finis (groupe B),Inventaire permanent des produits finis,9452,945,0,,Equity,MAD
+Produits finis en cours de route,Inventaire permanent des produits finis,9456,945,0,,Equity,MAD
+Autres produits finis,Inventaire permanent des produits finis,9458,945,0,,Equity,MAD
+Provisions pour dépréciation des marchandises,Provisions sur dépréciation des stocks,9491,949,0,,Equity,MAD
+Provisions pour dépréciation des matières et fournitures consommables,Provisions sur dépréciation des stocks,9492,949,0,,Equity,MAD
+Provisions pour dépréciation des produits en cours,Provisions sur dépréciation des stocks,9493,949,0,,Equity,MAD
+Provisions pour dépréciation des produits intermédiaires et produits résiduels,Provisions sur dépréciation des stocks,9494,949,0,,Equity,MAD
+Provisions pour dépréciation des produits finis,Provisions sur dépréciation des stocks,9495,949,0,,Equity,MAD
+Coûts de revient des marchandises (groupe A),Coûts de revient des marchandises,9531,953,0,,Equity,MAD
+Coûts de revient des marchandises (groupe B),Coûts de revient des marchandises,9532,953,0,,Equity,MAD
+Coûts de revient des produits (groupe A),Coûts de revient des produits,9551,955,0,,Equity,MAD
+Coûts de revient des produits (groupe B),Coûts de revient des produits,9552,955,0,,Equity,MAD
+Coûts de revient ( groupe A),Autres coûts de revient,9581,958,0,,Equity,MAD
+Coûts de revient ( groupe B),Autres coûts de revient,9582,958,0,,Equity,MAD
+Ecarts sur quantités,Ecarts sur sections,9621,962,0,,Equity,MAD
+Ecarts sur coûts,Ecarts sur sections,9622,962,0,,Equity,MAD
+Ecarts sur quantités,Ecarts sur inventaire permanent des stocks,9641,964,0,,Equity,MAD
+Ecarts sur coûts,Ecarts sur inventaire permanent des stocks,9642,964,0,,Equity,MAD
+Charges non incorporables,Charges non incorporables,9710,971,0,,Equity,MAD
+Charges supplétives incorporées,Charges supplétives incorporées,9720,972,0,,Equity,MAD
+Produits non incorporés,Produits non incorporés,9730,973,0,,Equity,MAD
+Différences sur charges incorporables,Différences sur charges incorporables,9740,974,0,,Equity,MAD
+Différences sur produits incorporables,Différences sur produits incorporables,9750,975,0,,Equity,MAD
+Différences d’inventaire sur marchandises,Différences d’inventaire,9761,976,0,,Equity,MAD
+Différences d’inventaire sur matières et fournitures consommables,Différences d’inventaire,9762,976,0,,Equity,MAD
+Différences d’inventaire sur produits en cours,Différences d’inventaire,9763,976,0,,Equity,MAD
+Différences d’inventaire sur produits intermédiaires et produits résiduels,Différences d’inventaire,9764,976,0,,Equity,MAD
+Différences d’inventaire sur produits finis,Différences d’inventaire,9765,976,0,,Equity,MAD
+Différences sur niveau d’activité,Différences sur niveau d’activité,9770,977,0,,Equity,MAD
+Autres différences d’incorporation,Autres différences d’incorporation,9780,978,0,,Equity,MAD
+Résultats analytiques sur marchandises ( groupe A ),Résultats analytiques sur marchandises,9811,981,0,,Equity,MAD
+Résultats analytiques sur marchandises ( groupe B ),Résultats analytiques sur marchandises,9812,981,0,,Equity,MAD
+Résultats analytiques sur biens produits ( groupe A ),Résultats analytiques sur biens produits,9821,982,0,,Equity,MAD
+Résultats analytiques sur biens produits ( groupe B ),Résultats analytiques sur biens produits,9822,982,0,,Equity,MAD
+Résultats analytiques sur services produits ( groupe A ),Résultats analytiques sur services produits,9831,983,0,,Equity,MAD
+Résultats analytiques sur services produits ( groupe B ),Résultats analytiques sur services produits,9832,983,0,,Equity,MAD
+Reports des écarts sur coûts préétablis,Reports des écarts sur coûts préétablis,9860,986,0,,Equity,MAD
+Reports des différences d’incorporation,Reports des différences d’incorporation,9870,987,0,,Equity,MAD
+Liaisons internes propres a un même établissement,Liaisons internes propres a un même établissement,9910,991,0,,Equity,MAD
+Cessions fournies à d’autres établissements,Cessions à d’autres établissements,9951,995,0,,Equity,MAD
+Cessions reçues d’autres établissements,Cessions à d’autres établissements,9955,995,0,,Equity,MAD
+Capital individuel,Capital personnel,11171,1117,0,,Equity,MAD
+Compte de l'exploitant,Capital personnel,11175,1117,0,,Equity,MAD
+"Bâtiments industriels (A,B,,,)",Bâtiments,23211,2321,0,,Asset,MAD
+"Bâtiments administratifs et commerciaux (A,B,,,)",Bâtiments,23214,2321,0,,Asset,MAD
+Autres bâtiments,Bâtiments,23218,2321,0,,Asset,MAD
+Matériel,Matériel et outillage,23321,2332,0,,Asset,MAD
+Outillage,Matériel et outillage,23324,2332,0,,Asset,MAD
+Obligations,Titres immobilisés (droits de créance),24811,2481,0,,Asset,MAD
+Bons d'équipement,Titres immobilisés (droits de créance),24813,2481,0,,Asset,MAD
+Bons divers,Titres immobilisés (droits de créance),24818,2481,0,,Asset,MAD
+Dépôts,Dépôts et cautionnements versés,24861,2486,0,,Asset,MAD
+Cautionnements,Dépôts et cautionnements versés,24864,2486,0,,Asset,MAD
+Amortissements des frais de constitution,Amortissements des frais préliminaires,28111,2811,0,,Asset,MAD
+Amortissements des frais préliminaires au démarrage,Amortissements des frais préliminaires,28112,2811,0,,Asset,MAD
+Amortissements des frais d'augmentation du capital,Amortissements des frais préliminaires,28113,2811,0,,Asset,MAD
+"Amortissements des frais sur opérations de fusions, scissions, et transformations",Amortissements des frais préliminaires,28114,2811,0,,Asset,MAD
+Amortissements des frais de prospection,Amortissements des frais préliminaires,28116,2811,0,,Asset,MAD
+Amortissements des frais de publicité,Amortissements des frais préliminaires,28117,2811,0,,Asset,MAD
+Amortissements des autres frais préliminaires,Amortissements des frais préliminaires,28118,2811,0,,Asset,MAD
+Amortissements des frais d'acquisition des immobilisations,Amortissements des charges à répartir,28121,2812,0,,Asset,MAD
+Amortissements des frais d'émission des emprunts,Amortissements des charges à répartir,28125,2812,0,,Asset,MAD
+Amortissements des autres charges à répartir,Amortissements des charges à répartir,28128,2812,0,,Asset,MAD
+Amortissements des agencements et aménagements de terrains,Amortissements des primes de remboursement des obligations,28136,2813,0,,Asset,MAD
+Amortissements des autres terrains,Amortissements des primes de remboursement des obligations,28138,2813,0,,Asset,MAD
+Amortissements des terrains nus,Amortissements des terrains,28311,2831,0,,Asset,MAD
+Amortissements des terrains aménagés,Amortissements des terrains,28312,2831,0,,Asset,MAD
+Amortissements des terrains bâtis,Amortissements des terrains,28313,2831,0,,Asset,MAD
+Amortissements des terrains de gisement,Amortissements des terrains,28314,2831,0,,Asset,MAD
+Amortissements des bâtiments,Amortissements des constructions,28321,2832,0,,Asset,MAD
+Amortissements des constructions sur terrains d'autrui,Amortissements des constructions,28323,2832,0,,Asset,MAD
+Amortissements des ouvrages d'infrastructure,Amortissements des constructions,28325,2832,0,,Asset,MAD
+"Amortissements des installations, agencements et aménagements des constructions",Amortissements des constructions,28327,2832,0,,Asset,MAD
+Amortissements des autres constructions,Amortissements des constructions,28328,2832,0,,Asset,MAD
+Amortissements des installations techniques,"Amortissements des installations techniques, matériel et outillage",28331,2833,0,,Asset,MAD
+Amortissements du matériel et outillage,"Amortissements des installations techniques, matériel et outillage",28332,2833,0,,Asset,MAD
+Amortissements des emballages récupérables ident ifiables,"Amortissements des installations techniques, matériel et outillage",28333,2833,0,,Asset,MAD
+"Amortissements des autres installations techniques, matériel et outillage","Amortissements des installations techniques, matériel et outillage",28338,2833,0,,Asset,MAD
+Amortissements du mobilier de bureau,"Amortissements du mobilier, matériel de bureau et aménagements divers",28351,2835,0,,Asset,MAD
+Amortissements du matériel de bureau,"Amortissements du mobilier, matériel de bureau et aménagements divers",28352,2835,0,,Asset,MAD
+Amortissements du matériel informatique,"Amortissements du mobilier, matériel de bureau et aménagements divers",28355,2835,0,,Asset,MAD
+"Amortissements des agencements, installations et aménagements divers","Amortissements du mobilier, matériel de bureau et aménagements divers",28356,2835,0,,Asset,MAD
+"Amortissements des autres mobilier, matériel de bureau et aménagements divers","Amortissements du mobilier, matériel de bureau et aménagements divers",28358,2835,0,,Asset,MAD
+Matières premières (groupe A),Matières premières,31211,3121,0,,Asset,MAD
+Matières premières (groupe B),Matières premières,31212,3121,0,,Asset,MAD
+Matières consommables (groupe A),Matières et fournitures consommables,31221,3122,0,,Asset,MAD
+Matières consommables (groupe B),Matières et fournitures consommables,31222,3122,0,,Asset,MAD
+Combustibles,Matières et fournitures consommables,31223,3122,0,,Asset,MAD
+Produits d'entretien,Matières et fournitures consommables,31224,3122,0,,Asset,MAD
+Fournitures d'atelier et d'usine,Matières et fournitures consommables,31225,3122,0,,Asset,MAD
+Fournitures de magasin,Matières et fournitures consommables,31226,3122,0,,Asset,MAD
+Fournitures de bureau,Matières et fournitures consommables,31227,3122,0,,Asset,MAD
+Emballages perdus,Emballages,31231,3123,0,,Asset,MAD
+Emballages récupérables non identifiables,Emballages,31232,3123,0,,Asset,MAD
+Emballages à usage mixte,Emballages,31233,3123,0,,Asset,MAD
+Biens produits en cours,Biens en cours,31311,3131,0,,Asset,MAD
+Biens intermédiaires en cours,Biens en cours,31312,3131,0,,Asset,MAD
+Biens résiduels en cours,Biens en cours,31317,3131,0,,Asset,MAD
+Travaux en cours,Services en cours,31341,3134,0,,Asset,MAD
+Etudes en cours,Services en cours,31342,3134,0,,Asset,MAD
+Prestations en cours,Services en cours,31343,3134,0,,Asset,MAD
+Produits intermédiaires (groupe A),Produits intermédiaires,31411,3141,0,,Asset,MAD
+Produits intermédiaires (groupe B),Produits intermédiaires,31412,3141,0,,Asset,MAD
+Déchets,Produits résiduels (ou matières de récupération),31451,3145,0,,Asset,MAD
+Rebuts,Produits résiduels (ou matières de récupération),31452,3145,0,,Asset,MAD
+Matières de récupération,Produits résiduels (ou matières de récupération),31453,3145,0,,Asset,MAD
+Clients - catégorie A,Clients,34211,3421,0,,Asset,MAD
+Clients - catégorie B,Clients,34212,3421,0,,Asset,MAD
+Clients - factures à établir,Clients - factures à établir et créances sur travaux non encore facturés,34271,3427,0,,Asset,MAD
+Créances sur travaux non encore facturables,Clients - factures à établir et créances sur travaux non encore facturés,34272,3427,0,,Asset,MAD
+Subventions d'investissement à recevoir,Subventions à recevoir,34511,3451,0,,Asset,MAD
+Subventions d'exploitation à recevoir,Subventions à recevoir,34512,3451,0,,Asset,MAD
+Subventions d'équilibre à recevoir,Subventions à recevoir,34513,3451,0,,Asset,MAD
+Etat - TVA récupérable sur immobilisations,Etat - TVA récupérable,34551,3455,0,,Asset,MAD
+Etat - TVA récupérable sur charges,Etat - TVA récupérable,34552,3455,0,,Asset,MAD
+Bons de caisse,Bons de caisse et bons de trésor,35061,3506,0,,Asset,MAD
+Bons de trésor,Bons de caisse et bons de trésor,35062,3506,0,,Asset,MAD
+Fournisseurs - catégorie A,Fournisseurs,44111,4411,0,,Liability,MAD
+Fournisseurs - catégorie B,Fournisseurs,44112,4411,0,,Liability,MAD
+"Etat, taxe urbaine et taxe d'édilité","Etat Impôts, taxes et assimilés",44521,4452,0,,Liability,MAD
+"Etat, patente","Etat Impôts, taxes et assimilés",44522,4452,0,,Liability,MAD
+"Etat, IGR","Etat Impôts, taxes et assimilés",44525,4452,0,,Liability,MAD
+Chèques en portefeuille,Chèques à encaisser ou à l'encaissement,51111,5111,0,,Asset,MAD
+Chèques à l'encaissement,Chèques à encaisser ou à l'encaissement,51112,5111,0,,Asset,MAD
+Effets échus à encaisser,Effets à encaisser ou à l'encaissement,51131,5113,0,,Asset,MAD
+Effets à l'encaissement,Effets à encaisser ou à l'encaissement,51132,5113,0,,Asset,MAD
+Achats d'emballages perdus,TRESORERIE - ACTIF,51231,51,0,,Asset,MAD
+Caisse Centrale,Caisses,51611,5161,0,,Asset,MAD
+Caisse (succursale ou agence A),Caisses,51613,5161,0,,Asset,MAD
+Caisse (succursale ou agence B),Caisses,51614,5161,0,,Asset,MAD
+Achats de matières premières A,Achats de matières premières,61211,6121,0,,Expense,MAD
+Achats de matières premières B,Achats de matières premières,61212,6121,0,,Expense,MAD
+Achats de matières et fournitures A,Achats de matières et fournitures consommables,61221,6122,0,,Expense,MAD
+Achats de matières et fournitures B,Achats de matières et fournitures consommables,61222,6122,0,,Expense,MAD
+Achats de combustibles,Achats de matières et fournitures consommables,61223,6122,0,,Expense,MAD
+Achats de produits d'entretien,Achats de matières et fournitures consommables,61224,6122,0,,Expense,MAD
+Achats de fournitures d'atelier et d'usine,Achats de matières et fournitures consommables,61225,6122,0,,Expense,MAD
+Achats de fournitures de magasin,Achats de matières et fournitures consommables,61226,6122,0,,Expense,MAD
+Achats de fournitures de bureau,Achats de matières et fournitures consommables,61227,6122,0,,Expense,MAD
+Achats d'emballages récupérables non identifiables,Achats d'emballages,61232,6123,0,,Expense,MAD
+Achats d'emballages à usage mixte,Achats d'emballages,61233,6123,0,,Expense,MAD
+Variation des stocks de matières premières,Variation des stocks de matières et fournitures,61241,6124,0,,Expense,MAD
+Variation des stocks de matières et fournitures consommables,Variation des stocks de matières et fournitures,61242,6124,0,,Expense,MAD
+Variation des stocks des emballages,Variation des stocks de matières et fournitures,61243,6124,0,,Expense,MAD
+"Achats de fournitures non stockables (eau, électricité,,)",Achats non stockés de matières et fournitures,61251,6125,0,,Expense,MAD
+Achats de fournitures d'entretien,Achats non stockés de matières et fournitures,61252,6125,0,,Expense,MAD
+Achats de petit outillage et petit équipement,Achats non stockés de matières et fournitures,61253,6125,0,,Expense,MAD
+Achats de fournitures de bureau,Achats non stockés de matières et fournitures,61254,6125,0,,Expense,MAD
+Achats des travaux,"Achats de travaux, études et prestations de service",61261,6126,0,,Expense,MAD
+Achats des études,"Achats de travaux, études et prestations de service",61262,6126,0,,Expense,MAD
+Achats des prestations de service,"Achats de travaux, études et prestations de service",61263,6126,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur achats de matières premières","Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures",61291,6129,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur achats de matières et fournitures consommables","Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures",61292,6129,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur achats des emballages","Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures",61293,6129,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur achats non stockés","Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures",61295,6129,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur achats de travaux, études et prestations de service","Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures",61296,6129,0,,Expense,MAD
+"Rabais, remises et ristournes obtenus sur achats de matières et fournitures des exercices antérieurs","Rabais, remises et ristournes obtenus sur achats consommés de matières et fournitures",61298,6129,0,,Expense,MAD
+Locations de terrains,Locations et charges locatives,61311,6131,0,,Expense,MAD
+Locations de constructions,Locations et charges locatives,61312,6131,0,,Expense,MAD
+Locations de matériel et d'outillage,Locations et charges locatives,61313,6131,0,,Expense,MAD
+Locations de mobilier et de matériel de bureau,Locations et charges locatives,61314,6131,0,,Expense,MAD
+Locations de matériel informatique,Locations et charges locatives,61315,6131,0,,Expense,MAD
+Locations de matériel de transport,Locations et charges locatives,61316,6131,0,,Expense,MAD
+Malis sur emballages rendus,Locations et charges locatives,61317,6131,0,,Expense,MAD
+Locations et charges locatives diverses,Locations et charges locatives,61318,6131,0,,Expense,MAD
+Redevances de crédit-bail - mobilier et matériel,Redevances de crédit-bail,61321,6132,0,,Expense,MAD
+Entretien et réparations des biens immobiliers,Entretien et réparations,61331,6133,0,,Expense,MAD
+Entretien et réparations des biens mobiliers,Entretien et réparations,61332,6133,0,,Expense,MAD
+Maintenance,Entretien et réparations,61335,6133,0,,Expense,MAD
+"Assurances multirisque (vol, incendie,R,C,)",Primes d'assurances,61341,6134,0,,Expense,MAD
+Assurances - risques d'exploitation,Primes d'assurances,61343,6134,0,,Expense,MAD
+Assurances - Matériel de transport,Primes d'assurances,61345,6134,0,,Expense,MAD
+Autres assurances,Primes d'assurances,61348,6134,0,,Expense,MAD
+Rémunérations du personnel occasionnel,Rémunérations du personnel extérieur à l'entreprise,61351,6135,0,,Expense,MAD
+Rémunérations du personnel intérimaire,Rémunérations du personnel extérieur à l'entreprise,61352,6135,0,,Expense,MAD
+Rémunérations du personnel détaché ou prêté à l'entreprise,Rémunérations du personnel extérieur à l'entreprise,61353,6135,0,,Expense,MAD
+Commissions et courtages,Rémunérations d'intermédiaires et honoraires,61361,6136,0,,Expense,MAD
+Honoraires,Rémunérations d'intermédiaires et honoraires,61365,6136,0,,Expense,MAD
+Frais d'actes et de contentieux,Rémunérations d'intermédiaires et honoraires,61367,6136,0,,Expense,MAD
+Redevances pour brevets,"Redevances pour brevets, marques, droits et valeurs similaires",61371,6137,0,,Expense,MAD
+Autres redevances,"Redevances pour brevets, marques, droits et valeurs similaires",61378,6137,0,,Expense,MAD
+Etudes générales,"Etudes, recherches et documentation",61411,6141,0,,Expense,MAD
+Recherches,"Etudes, recherches et documentation",61413,6141,0,,Expense,MAD
+Documentation générale,"Etudes, recherches et documentation",61415,6141,0,,Expense,MAD
+Documentation technique,"Etudes, recherches et documentation",61416,6141,0,,Expense,MAD
+Transports du personnel,Transports,61421,6142,0,,Expense,MAD
+Transports sur achats,Transports,61425,6142,0,,Expense,MAD
+Transports sur ventes,Transports,61426,6142,0,,Expense,MAD
+Autres transports,Transports,61428,6142,0,,Expense,MAD
+Voyages et déplacements,"Déplacements, missions et réceptions",61431,6143,0,,Expense,MAD
+Frais de déménagement,"Déplacements, missions et réceptions",61433,6143,0,,Expense,MAD
+Missions,"Déplacements, missions et réceptions",61435,6143,0,,Expense,MAD
+Réceptions,"Déplacements, missions et réceptions",61436,6143,0,,Expense,MAD
+Annoces et insertions,"Publicité, publications et relations publiques",61441,6144,0,,Expense,MAD
+"Echantillons, catalogues et imprimés publicitaires","Publicité, publications et relations publiques",61442,6144,0,,Expense,MAD
+Foires et expositions,"Publicité, publications et relations publiques",61443,6144,0,,Expense,MAD
+Primes de publicité,"Publicité, publications et relations publiques",61444,6144,0,,Expense,MAD
+Publications,"Publicité, publications et relations publiques",61446,6144,0,,Expense,MAD
+Cadeaux à la clientèle,"Publicité, publications et relations publiques",61447,6144,0,,Expense,MAD
+Autres charges de publicité et relations publiques,"Publicité, publications et relations publiques",61448,6144,0,,Expense,MAD
+Frais postaux,Frais postaus et frais de télécommunications,61451,6145,0,,Expense,MAD
+Frais de téléphone,Frais postaus et frais de télécommunications,61455,6145,0,,Expense,MAD
+Frais de télex et de télégrammes,Frais postaus et frais de télécommunications,61456,6145,0,,Expense,MAD
+Cotisations,Cotisations et dons,61461,6146,0,,Expense,MAD
+Dons,Cotisations et dons,61462,6146,0,,Expense,MAD
+Frais d'achat et de vente des titres,Services bancaires,61471,6147,0,,Expense,MAD
+Frais sur effets de commerce,Services bancaires,61472,6147,0,,Expense,MAD
+Frais et commisions sur services bancaires,Services bancaires,61473,6147,0,,Expense,MAD
+Taxe urbaine et taxe d'édilité,Impôts et taxes directs,61611,6161,0,,Expense,MAD
+Patente,Impôts et taxes directs,61612,6161,0,,Expense,MAD
+Taxes locales,Impôts et taxes directs,61615,6161,0,,Expense,MAD
+Droits d’enregistrement et de timbre,"Impôts, taxes et droits assimilés",61671,6167,0,,Expense,MAD
+Taxes sur les véhicules,"Impôts, taxes et droits assimilés",61673,6167,0,,Expense,MAD
+"Autres impôts, taxes et droits assimilés","Impôts, taxes et droits assimilés",61678,6167,0,,Expense,MAD
+Appointements et salaires,Rémunérations du personnel,61711,6171,0,,Expense,MAD
+Primes et gratifications,Rémunérations du personnel,61712,6171,0,,Expense,MAD
+Indemnités et avantages divers,Rémunérations du personnel,61713,6171,0,,Expense,MAD
+Commissions au personnel,Rémunérations du personnel,61714,6171,0,,Expense,MAD
+"Rémunérations des administrateurs, gérants et associés",Rémunérations du personnel,61715,6171,0,,Expense,MAD
+Cotisations de sécurité sociale,Charges sociales,61741,6174,0,,Expense,MAD
+Cotisations aux caisses de retraite,Charges sociales,61742,6174,0,,Expense,MAD
+Cotisations aux mutuelles,Charges sociales,61743,6174,0,,Expense,MAD
+Prestations familiales,Charges sociales,61744,6174,0,,Expense,MAD
+Assurances accidents de travail,Charges sociales,61745,6174,0,,Expense,MAD
+Assurances groupe,Charges sociales diverses,61761,6176,0,,Expense,MAD
+Prestations de retarites,Charges sociales diverses,61762,6176,0,,Expense,MAD
+Allocations aux oeuvres sociales,Charges sociales diverses,61763,6176,0,,Expense,MAD
+Habillement et vêtements de travail,Charges sociales diverses,61764,6176,0,,Expense,MAD
+Indemnités de préavis et de licenciement,Charges sociales diverses,61765,6176,0,,Expense,MAD
+"Médecine de travail, pharmacie",Charges sociales diverses,61766,6176,0,,Expense,MAD
+Autres charges sociales diverses,Charges sociales diverses,61768,6176,0,,Expense,MAD
+Appointements et salaires,Rémunération de l'exploitant,61771,6177,0,,Expense,MAD
+Charges sociales sur appointements et salaires de l’exploitant,Rémunération de l'exploitant,61774,6177,0,,Expense,MAD
+D.E.A. des frais préliminaires,Dotations d’exploitation aux amortissements de l’immobilisation en non valeur,61911,6191,0,,Expense,MAD
+D.E.A. des charges à répartir,Dotations d’exploitation aux amortissements de l’immobilisation en non valeur,61912,6191,0,,Expense,MAD
+D.E.A. de l’immobilisation en recherche et développement,Dotations d’exploitation aux amortissements des immobilisations incorporelles,61921,6192,0,,Expense,MAD
+"D.E.A. des brevets, marques, droits et valeurs similaires",Dotations d’exploitation aux amortissements des immobilisations incorporelles,61922,6192,0,,Expense,MAD
+D.E.A. du fonds commercial,Dotations d’exploitation aux amortissements des immobilisations incorporelles,61923,6192,0,,Expense,MAD
+D.E.A. des autres immobilisations incorporelles,Dotations d’exploitation aux amortissements des immobilisations incorporelles,61928,6192,0,,Expense,MAD
+D.E.A. des terrains,Dotations d’exploitation aux amortissements des immobilisations corporelles,61931,6193,0,,Expense,MAD
+D.E.A. des constructions,Dotations d’exploitation aux amortissements des immobilisations corporelles,61932,6193,0,,Expense,MAD
+"D.E.A. des installations techniques, matériel et outillage",Dotations d’exploitation aux amortissements des immobilisations corporelles,61933,6193,0,,Expense,MAD
+D.E.A. du matériel de transport,Dotations d’exploitation aux amortissements des immobilisations corporelles,61934,6193,0,,Expense,MAD
+"D.E.A. des mobiliers, matériels de bureau et aménagements divers",Dotations d’exploitation aux amortissements des immobilisations corporelles,61935,6193,0,,Expense,MAD
+D.E.A. des autres immobilisations corporelles,Dotations d’exploitation aux amortissements des immobilisations corporelles,61938,6193,0,,Expense,MAD
+D.E.P. pour dépréciation des immobilisations incorporelles,Dotations d’exploitation aux provisions pour dépréciation des immobilisations,61942,6194,0,,Expense,MAD
+D.E.P. pour dépréciation des immobilisations corporelles,Dotations d’exploitation aux provisions pour dépréciation des immobilisations,61943,6194,0,,Expense,MAD
+D.E.P. pour risques et charges durables,Dotations d’exploitation aux provisions pour risques et charges,61955,6195,0,,Expense,MAD
+D.E.P. pour dépréciation des stocks,Dotations d’exploitation aux provisions pour dépréciations de l’actif circulant,61961,6196,0,,Expense,MAD
+D.E.P. pour dépréciation des créances de l’actif circulant,Dotations d’exploitation aux provisions pour dépréciations de l’actif circulant,61964,6196,0,,Expense,MAD
+D.E. aux amortissements des exercices antérieurs,Dotations d’exploitation des exercices antérieurs,61981,6198,0,,Expense,MAD
+D.E. aux provisions des exercices antérieurs,Dotations d’exploitation des exercices antérieurs,61984,6198,0,,Expense,MAD
+Intérêts des emprunts,Intérêts des emprunts et dettes,63111,6311,0,,Expense,MAD
+Intérêts des dettes rattachées à des participations,Intérêts des emprunts et dettes,63113,6311,0,,Expense,MAD
+Intérêts des comptes courants et dépôts créditeurs,Intérêts des emprunts et dettes,63114,6311,0,,Expense,MAD
+Intérêts bancaires et sur opérations de financement,Intérêts des emprunts et dettes,63115,6311,0,,Expense,MAD
+Autres intérêts des emprunts et dettes,Intérêts des emprunts et dettes,63118,6311,0,,Expense,MAD
+Pénalités sur marchés,Pénalités sur marchés et dédits,65811,6581,0,,Expense,MAD
+Dédits,Pénalités sur marchés et dédits,65812,6581,0,,Expense,MAD
+Pénalités et amendes fiscales,Pénalités et amendes fiscales ou pénales,65831,6583,0,,Expense,MAD
+Pénalités et amendes pénales,Pénalités et amendes fiscales ou pénales,65833,6583,0,,Expense,MAD
+Dons,"Dons, libéralités et lots",65861,6586,0,,Expense,MAD
+Libéralités,"Dons, libéralités et lots",65862,6586,0,,Expense,MAD
+Lots,"Dons, libéralités et lots",65863,6586,0,,Expense,MAD
+D.A.E. de l’immobilisation en non-valeurs,Dotations aux amortissements exceptionnels des immobilisations,65911,6591,0,,Expense,MAD
+D.A.E. des immobilisations incorporelles,Dotations aux amortissements exceptionnels des immobilisations,65912,6591,0,,Expense,MAD
+D.A.E. des immobilisations corporelles,Dotations aux amortissements exceptionnels des immobilisations,65913,6591,0,,Expense,MAD
+D.N.C. pour amortissements dérogatoires,Dotations non courantes aux provisions réglementées,65941,6594,0,,Expense,MAD
+D.N.C. pour plus-values en instance d'imposition,Dotations non courantes aux provisions réglementées,65942,6594,0,,Expense,MAD
+D.N.C. pour investissements,Dotations non courantes aux provisions réglementées,65944,6594,0,,Expense,MAD
+D.N.C. pour reconstitution de gisements,Dotations non courantes aux provisions réglementées,65945,6594,0,,Expense,MAD
+D.N.C. pour acquisition et construction de logements,Dotations non courantes aux provisions réglementées,65946,6594,0,,Expense,MAD
+D.N.C. aux provisions pour risques et charges durables,Dotations non courantes aux provisions pour risques et charges,65955,6595,0,,Expense,MAD
+D.N.C. aux provisions pour risques et charges momentanés,Dotations non courantes aux provisions pour risques et charges,65957,6595,0,,Expense,MAD
+D.N.C. aux provisions pour dépréciation de l’actif immobilisé,Dotations non courantes aux provisions pour dépréciation,65962,6596,0,,Expense,MAD
+D.N.C. aux provisions pour dépréciation de l’actif circulant,Dotations non courantes aux provisions pour dépréciation,65963,6596,0,,Expense,MAD
+Ventes de produits finis,Ventes de biens produits au Maroc,71211,7121,0,,Income,MAD
+Ventes de produits intermédiaires,Ventes de biens produits au Maroc,71212,7121,0,,Income,MAD
+Ventes de produits résiduels,Ventes de biens produits au Maroc,71217,7121,0,,Income,MAD
+Ventes de produits finis,Ventes de biens produits à l’étranger,71221,7122,0,,Income,MAD
+Ventes de produits intermédiaires,Ventes de biens produits à l’étranger,71222,7122,0,,Income,MAD
+Travaux,Ventes de services produits au Maroc,71241,7124,0,,Income,MAD
+Etudes,Ventes de services produits au Maroc,71242,7124,0,,Income,MAD
+Prestations de services,Ventes de services produits au Maroc,71243,7124,0,,Income,MAD
+Travaux,Ventes de services produits à l'étranger,71251,7125,0,,Income,MAD
+Etudes,Ventes de services produits à l'étranger,71252,7125,0,,Income,MAD
+Prestations de services,Ventes de services produits à l'étranger,71253,7125,0,,Income,MAD
+Locations divers es reçues,Ventes de produits accessoires,71271,7127,0,,Income,MAD
+Commissions et courtages reçus,Ventes de produits accessoires,71272,7127,0,,Income,MAD
+Produits de services exploités dans l'intérêt du personnel,Ventes de produits accessoires,71273,7127,0,,Income,MAD
+Bonis sur reprises d'emballages consignés,Ventes de produits accessoires,71275,7127,0,,Income,MAD
+Ports et frais accessoires facturés,Ventes de produits accessoires,71276,7127,0,,Income,MAD
+Autres ventes et produits accessoires,Ventes de produits accessoires,71278,7127,0,,Income,MAD
+"R,R,R accordées sur ventes au Maroc des biens produits","Rabais, remises et ristournes accordés par l’entreprise",71291,7129,0,,Income,MAD
+"R,R,R accordées sur ventes à l'étranger des biens produits","Rabais, remises et ristournes accordés par l’entreprise",71292,7129,0,,Income,MAD
+"R,R,R accordées sur ventes au Maroc des services produits","Rabais, remises et ristournes accordés par l’entreprise",71294,7129,0,,Income,MAD
+"R,R,R accordées sur ventes à l'étranger des services produits","Rabais, remises et ristournes accordés par l’entreprise",71295,7129,0,,Income,MAD
+"Rabais, remises et ristournes accordés sur ventes de B & S produits des exercices antérieurs","Rabais, remises et ristournes accordés par l’entreprise",71298,7129,0,,Income,MAD
+Variation des stocks de biens produits en cours,Variation des stocks de produits en cours,71311,7131,0,,Income,MAD
+Variation des stocks de produits intermédiaires en cours,Variation des stocks de produits en cours,71312,7131,0,,Income,MAD
+Variation des stocks de produits résiduels en cours,Variation des stocks de produits en cours,71317,7131,0,,Income,MAD
+Variation des stocks de produits finis,Variation des stocks de biens produits,71321,7132,0,,Income,MAD
+Variation des stocks de produits intermédiaires,Variation des stocks de biens produits,71322,7132,0,,Income,MAD
+Variation des stocks de produits résiduels,Variation des stocks de biens produits,71327,7132,0,,Income,MAD
+Variation des stocks de travaux en cours,Variation des stocks de services en cours,71341,7134,0,,Income,MAD
+Variation des stocks d'études en cours,Variation des stocks de services en cours,71342,7134,0,,Income,MAD
+Variation des stocks de prestations en cours,Variation des stocks de services en cours,71343,7134,0,,Income,MAD
+"T,C,E - Achats de marchandises",Transferts des charges d’exploitation,71971,7197,0,,Income,MAD
+"T,C,E - Achats consommés de matières et fournitures",Transferts des charges d’exploitation,71972,7197,0,,Income,MAD
+"T,C,E - Autes charges externes",Transferts des charges d’exploitation,71973,7197,0,,Income,MAD
+"T,C,E - Impôts et taxes",Transferts des charges d’exploitation,71975,7197,0,,Income,MAD
+"T,C,E - Charges de personnel",Transferts des charges d’exploitation,71976,7197,0,,Income,MAD
+"T,C,E - Autres charges d'exploitation",Transferts des charges d’exploitation,71978,7197,0,,Income,MAD
+Reprises sur amortissements des exercices antérieurs,Reprises sur amortissements et provisions des exercices antérieurs,71981,7198,0,,Income,MAD
+Reprises sur provisions des exercices antérieurs,Reprises sur amortissements et provisions des exercices antérieurs,71984,7198,0,,Income,MAD
+Intérêts des prêts,Intérêts et produits assimilés,73811,7381,0,,Income,MAD
+Revenus des autres créances financières,Intérêts et produits assimilés,73813,7381,0,,Income,MAD
+Transfert - Charges d'intérêts,Transfert de charges financières,73971,7397,0,,Income,MAD
+Transfert - Pertes de change,Transfert de charges financières,73973,7397,0,,Income,MAD
+Transfert - Autres charges financières,Transfert de charges financières,73978,7397,0,,Income,MAD
+Pénalités reçues sur marchés,Pénalités et dédits reçus,75811,7581,0,,Income,MAD
+Dédits reçus,Pénalités et dédits reçus,75812,7581,0,,Income,MAD
+Dons,"Dons, libéralités et lots reçus",75861,7586,0,,Income,MAD
+Libéralités,"Dons, libéralités et lots reçus",75862,7586,0,,Income,MAD
+Lots,"Dons, libéralités et lots reçus",75863,7586,0,,Income,MAD
+"R,A,E de l'mmobilisation en non valeurs",Reprises non courantes sur amortissements exceptionnels des immobilisations,75911,7591,0,,Income,MAD
+"R,A,E des immobilisations incorporelles",Reprises non courantes sur amortissements exceptionnels des immobilisations,75912,7591,0,,Income,MAD
+"R,A,E des immobilisations corporelles",Reprises non courantes sur amortissements exceptionnels des immobilisations,75913,7591,0,,Income,MAD
+Reprises sur amortissements dérogatoires,Reprises non courantes sur provisions réglementées,75941,7594,0,,Income,MAD
+Reprises sur plus-values en instance d'imposition,Reprises non courantes sur provisions réglementées,75942,7594,0,,Income,MAD
+Reprises sur provisions pour investissements,Reprises non courantes sur provisions réglementées,75944,7594,0,,Income,MAD
+Reprises sur provisions pour reconstitution de gisements,Reprises non courantes sur provisions réglementées,75945,7594,0,,Income,MAD
+Reprises sur provisions pour acquisition et construction de logements,Reprises non courantes sur provisions réglementées,75946,7594,0,,Income,MAD
+Reprises sur provisions pour risques et charges durables,Reprises non courantes sur provisions pour risques et charges,75955,7595,0,,Income,MAD
+Reprises sur provisions pour risques et charges momentanés,Reprises non courantes sur provisions pour risques et charges,75957,7595,0,,Income,MAD
+"R,N,C sur provisions pour dépréciation de l'actif immobilisé",Reprises non courantes sur provisions pour dépréciation,75962,7596,0,,Income,MAD
+"R,N,C sur provisions pour dépréciation de l'actif circulant",Reprises non courantes sur provisions pour dépréciation,75963,7596,0,,Income,MAD
+D.E.P. pour risques et charges momentanés,COMPTES DE RECLASSEMENT ET D'ANALYSE,91957,91,0,,Equity,MAD

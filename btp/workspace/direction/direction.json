@@ -1,0 +1,56 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"DMtq1wz0AL\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Shortcuts</b></span>\",\"col\":12}},{\"id\":\"b8wv55OI6e\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Projects\",\"col\":3}},{\"id\":\"1LhXPLSFzC\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Invoices\",\"col\":3}},{\"id\":\"r6qGg8fGr1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Payment Entries\",\"col\":3}},{\"id\":\"shhrQmMLkO\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Purchase Invoices\",\"col\":3}}]",
+ "creation": "2026-07-25 11:27:20.604320",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "dashboard",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Direction",
+ "links": [],
+ "modified": "2026-07-25 11:27:20.604320",
+ "modified_by": "Administrator",
+ "module": "BTP",
+ "name": "Direction",
+ "number_cards": [],
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Direction"
+  }
+ ],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Projects",
+   "link_to": "Project",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Sales Invoices",
+   "link_to": "Sales Invoice",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Payment Entries",
+   "link_to": "Payment Entry",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Purchase Invoices",
+   "link_to": "Purchase Invoice",
+   "type": "DocType"
+  }
+ ],
+ "title": "Direction"
+}

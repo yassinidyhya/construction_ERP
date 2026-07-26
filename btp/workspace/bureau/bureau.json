@@ -1,0 +1,74 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"BHYvMZtsrF\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Shortcuts</b></span>\",\"col\":12}},{\"id\":\"7aSPkbzRM4\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Purchase Invoices\",\"col\":3}},{\"id\":\"ub9YWRicnZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Payment Entries\",\"col\":3}},{\"id\":\"0zYR2o0bo3\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Journal Entries\",\"col\":3}},{\"id\":\"ju6H75Co92\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employees\",\"col\":3}},{\"id\":\"lsy5Ck00tZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Attendance\",\"col\":3}},{\"id\":\"YwM4n13mWj\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Payroll Entry\",\"col\":3}},{\"id\":\"wri1UN8Z4k\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Material Request\",\"col\":3}}]",
+ "creation": "2026-07-25 11:27:30.764284",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "desk",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Bureau",
+ "links": [],
+ "modified": "2026-07-25 11:27:30.764284",
+ "modified_by": "Administrator",
+ "module": "BTP",
+ "name": "Bureau",
+ "number_cards": [],
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Comptable"
+  }
+ ],
+ "sequence_id": 2.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Purchase Invoices",
+   "link_to": "Purchase Invoice",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Payment Entries",
+   "link_to": "Payment Entry",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Journal Entries",
+   "link_to": "Journal Entry",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Employees",
+   "link_to": "Employee",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Attendance",
+   "link_to": "Attendance",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Payroll Entry",
+   "link_to": "Payroll Entry",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Material Request",
+   "link_to": "Material Request",
+   "type": "DocType"
+  }
+ ],
+ "title": "Bureau"
+}
