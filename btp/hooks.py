@@ -15,7 +15,6 @@ fixtures = [
     {"dt": "Role", "filters": [["name", "in", ["Comptable", "Direction", "Chef de Chantier", "Magasinier"]]]},
     {"dt": "Role Profile", "filters": [["name", "in", ["BTP Comptable", "BTP Direction", "BTP Chantier", "BTP Magasinier"]]]},
     {"dt": "Module Profile", "filters": [["name", "in", ["BTP Comptable", "BTP Direction", "BTP Chantier", "BTP Magasinier"]]]},
-    {"dt": "Item Tax Template", "filters": [["company", "=", "RIJAL TRAVAUX"]]},
 ]
 
 # Apps
