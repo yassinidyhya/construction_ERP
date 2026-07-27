@@ -55,7 +55,10 @@ fixtures = [
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-doctype_js = {"Purchase Invoice": "public/js/purchase_invoice.js"}
+doctype_js = {
+	"Purchase Invoice": "public/js/purchase_invoice.js",
+	"Cheque": "public/js/cheque.js",
+}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
@@ -163,6 +166,11 @@ doc_events = {
 	},
 	"Expense Claim": {
 		"validate": "btp.btp.doc_events.site_charges.warn_if_missing_site",
+	},
+	"Payment Entry": {
+		"before_validate": "btp.btp.doc_events.payment_entry.force_transit_accounts",
+		"on_submit": "btp.btp.doc_events.payment_entry.create_cheque_on_submit",
+		"on_cancel": "btp.btp.doc_events.payment_entry.cleanup_cheque_on_cancel",
 	}
 }
 

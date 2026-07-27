@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "default_value": null,
+  "doc_type": "Mode of Payment",
+  "docstatus": 0,
+  "doctype": "Property Setter",
+  "doctype_or_field": "DocField",
+  "field_name": "type",
+  "is_system_generated": 1,
+  "modified": "2026-07-27 20:46:43.845713",
+  "module": "BTP",
+  "name": "Mode of Payment-type-options",
+  "property": "options",
+  "property_type": "Text",
+  "row_name": null,
+  "value": "Cash\nBank\nGeneral\nPhone\nCheque"
+ }
+]
