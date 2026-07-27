@@ -55,7 +55,7 @@ fixtures = [
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-# doctype_js = {"doctype" : "public/js/doctype.js"}
+doctype_js = {"Purchase Invoice": "public/js/purchase_invoice.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
@@ -152,6 +152,17 @@ fixtures = [
 doc_events = {
 	"Stock Entry": {
 		"validate": "btp.btp.doc_events.stock_entry.validate_stock_entry"
+	},
+	"Purchase Invoice": {
+		"validate": [
+			"btp.btp.doc_events.purchase_invoice.validate_purchase_invoice",
+			"btp.btp.doc_events.site_charges.warn_if_missing_site",
+		],
+		"on_submit": "btp.btp.doc_events.purchase_invoice.on_submit_purchase_invoice",
+		"on_cancel": "btp.btp.doc_events.purchase_invoice.on_cancel_purchase_invoice",
+	},
+	"Expense Claim": {
+		"validate": "btp.btp.doc_events.site_charges.warn_if_missing_site",
 	}
 }
 
