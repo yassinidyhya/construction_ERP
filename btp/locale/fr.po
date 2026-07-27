@@ -167,7 +167,7 @@ msgid "Instrument Type"
 msgstr "Type d'Effet"
 
 msgid "Direction"
-msgstr "Sens"
+msgstr "Direction"
 
 msgid "Party Type"
 msgstr "Type de Tiers"
