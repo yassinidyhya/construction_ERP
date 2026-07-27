@@ -2,7 +2,7 @@
  "actions": [],
  "allow_rename": 1,
  "autoname": "format:BDR-{posting_date}-{####}",
- "creation": "2026-07-27 12:00:00.000000",
+ "creation": "2026-07-27 12:00:00",
  "default_view": "List",
  "doctype": "DocType",
  "document_type": "Document",
@@ -50,7 +50,7 @@
    "fieldname": "cheques",
    "fieldtype": "Table",
    "label": "Cheques",
-   "options": "Bordereau de Remise Cheque",
+   "options": "Deposit Slip Item",
    "reqd": 1
   },
   {
@@ -77,7 +77,7 @@
    "fieldtype": "Link",
    "label": "Amended From",
    "no_copy": 1,
-   "options": "Bordereau de Remise",
+   "options": "Deposit Slip",
    "print_hide": 1,
    "read_only": 1
   }
@@ -85,38 +85,36 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2026-07-27 12:00:00.000000",
+ "modified": "2026-07-27 22:20:48.193796",
  "modified_by": "Administrator",
  "module": "BTP",
- "name": "Bordereau de Remise",
- "naming_rule": "Expression",
+ "name": "Deposit Slip",
+ "naming_rule": "Expression (old style)",
  "owner": "Administrator",
  "permissions": [
   {
-   "role": "System Manager",
-   "read": 1,
-   "write": 1,
+   "cancel": 1,
    "create": 1,
    "delete": 1,
+   "read": 1,
+   "role": "System Manager",
    "submit": 1,
-   "cancel": 1,
-   "permlevel": 0
+   "write": 1
   },
   {
-   "role": "Comptable",
-   "read": 1,
-   "write": 1,
+   "cancel": 1,
    "create": 1,
+   "read": 1,
+   "role": "Comptable",
    "submit": 1,
-   "cancel": 1,
-   "permlevel": 0
+   "write": 1
   },
   {
-   "role": "Direction",
    "read": 1,
-   "permlevel": 0
+   "role": "Direction"
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "modified",
  "sort_order": "DESC",
  "states": [],

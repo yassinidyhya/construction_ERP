@@ -10,7 +10,7 @@ from btp.btp.pdc import (
 )
 
 
-class BordereaudeRemise(Document):
+class DepositSlip(Document):
 	def validate(self):
 		if not self.company:
 			self.company = frappe.defaults.get_defaults().get("company")
@@ -18,7 +18,7 @@ class BordereaudeRemise(Document):
 
 	def on_submit(self):
 		if not self.cheques:
-			frappe.throw(frappe._("Cannot submit a Bordereau de Remise without cheques."))
+			frappe.throw(frappe._("Cannot submit a Deposit Slip without cheques."))
 
 		portfolio = get_pdc_account(PORTFOLIO_ACCOUNT, self.company)
 		under_collection = get_pdc_account(UNDER_COLLECTION_ACCOUNT, self.company)
@@ -48,7 +48,7 @@ class BordereaudeRemise(Document):
 			)
 
 		je_name = make_pdc_journal_entry(
-			self.company, self.posting_date, rows, f"Bordereau de remise {self.name}"
+			self.company, self.posting_date, rows, f"Deposit slip {self.name}"
 		)
 		self.db_set("journal_entry", je_name)
 

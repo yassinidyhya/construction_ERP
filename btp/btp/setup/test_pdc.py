@@ -64,7 +64,7 @@ def run():
 	# --- 2. deposit via bordereau ---
 	bdr = frappe.get_doc(
 		{
-			"doctype": "Bordereau de Remise",
+			"doctype": "Deposit Slip",
 			"company": company,
 			"posting_date": today(),
 			"bank_account": bank,
@@ -91,7 +91,7 @@ def run():
 	ch2 = get_cheque(pe2.name)
 	bdr2 = frappe.get_doc(
 		{
-			"doctype": "Bordereau de Remise",
+			"doctype": "Deposit Slip",
 			"company": company,
 			"posting_date": today(),
 			"bank_account": bank,
@@ -139,11 +139,11 @@ def run():
 
 	# --- cleanup (order matters: bordereaux, JEs, cheques, then PEs) ---
 	for b in created["bdr"]:
-		doc = frappe.get_doc("Bordereau de Remise", b)
+		doc = frappe.get_doc("Deposit Slip", b)
 		if doc.docstatus == 1:
 			doc.flags.ignore_permissions = True
 			doc.cancel()
-		frappe.delete_doc("Bordereau de Remise", b, force=1, ignore_permissions=True)
+		frappe.delete_doc("Deposit Slip", b, force=1, ignore_permissions=True)
 	for j in created["je"]:
 		doc = frappe.get_doc("Journal Entry", j)
 		if doc.docstatus == 1:

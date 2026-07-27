@@ -52,7 +52,7 @@
  "modified": "2026-07-27 12:00:00.000000",
  "modified_by": "Administrator",
  "module": "BTP",
- "name": "Bordereau de Remise Cheque",
+ "name": "Deposit Slip Item",
  "owner": "Administrator",
  "permissions": [],
  "sort_field": "modified",

@@ -169,7 +169,7 @@ class Cheque(Document):
 
 	def _bordereau_bank_account(self):
 		if self.bordereau:
-			return frappe.db.get_value("Bordereau de Remise", self.bordereau, "bank_account")
+			return frappe.db.get_value("Deposit Slip", self.bordereau, "bank_account")
 		# fallback: first non-transit bank account
 		bank = frappe.db.get_value(
 			"Account",

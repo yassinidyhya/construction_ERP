@@ -43,7 +43,7 @@ def create_cheque_on_submit(doc, method=None):
 	cheque = frappe.get_doc(
 		{
 			"doctype": "Cheque",
-			"instrument_type": "Chèque",
+			"instrument_type": "Cheque",
 			"direction": direction,
 			"status": "Portfolio" if direction == "Received" else "Issued",
 			"company": doc.company,

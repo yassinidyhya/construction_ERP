@@ -1,0 +1,332 @@
+# BTP app - French translations
+# Sources are English; this file carries the French UI.
+
+# --- DocTypes ---
+msgid "Caisse Journal"
+msgstr "Journal de Caisse"
+
+msgid "Caisse Journal Line"
+msgstr "Ligne de Journal de Caisse"
+
+msgid "Cheque"
+msgstr "Chèque"
+
+msgid "Deposit Slip"
+msgstr "Bordereau de Remise"
+
+msgid "Deposit Slip Item"
+msgstr "Ligne de Bordereau de Remise"
+
+msgid "Construction Site"
+msgstr "Chantier"
+
+msgid "Daily Site Report"
+msgstr "Rapport Journalier de Chantier"
+
+msgid "Daily Site Report Worker"
+msgstr "Ouvrier du Rapport Journalier"
+
+msgid "Daily Site Report Photo"
+msgstr "Photo du Rapport Journalier"
+
+msgid "Site File Folder"
+msgstr "Dossier de Fichiers du Chantier"
+
+# --- Select options / statuses ---
+msgid "Bill of Exchange"
+msgstr "Lettre de Change"
+
+msgid "Received"
+msgstr "Reçu"
+
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+msgid "Deposited"
+msgstr "Déposé"
+
+msgid "Collected"
+msgstr "Encaissé"
+
+msgid "Rejected"
+msgstr "Rejeté"
+
+msgid "Returned"
+msgstr "Retourné"
+
+msgid "Issued"
+msgstr "Émis"
+
+msgid "Encashed"
+msgstr "Encaissé"
+
+msgid "Planning"
+msgstr "Planification"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Completed"
+msgstr "Terminé"
+
+msgid "Alimentation"
+msgstr "Alimentation"
+
+msgid "Fuel"
+msgstr "Carburant"
+
+msgid "Supplies"
+msgstr "Fournitures"
+
+msgid "Transport"
+msgstr "Transport"
+
+msgid "Miscellaneous"
+msgstr "Divers"
+
+# --- Field labels ---
+msgid "Site Code"
+msgstr "Code Chantier"
+
+msgid "Site Name"
+msgstr "Nom du Chantier"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Project"
+msgstr "Projet"
+
+msgid "Start Date"
+msgstr "Date de Début"
+
+msgid "End Date"
+msgstr "Date de Fin"
+
+msgid "Responsible Engineer"
+msgstr "Ingénieur Responsable"
+
+msgid "Notes"
+msgstr "Remarques"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Cash Account"
+msgstr "Compte Caisse"
+
+msgid "Opening Balance"
+msgstr "Solde d'Ouverture"
+
+msgid "Closing Balance"
+msgstr "Solde de Clôture"
+
+msgid "Total In"
+msgstr "Total Entrées"
+
+msgid "Total Out"
+msgstr "Total Sorties"
+
+msgid "Journal Entry"
+msgstr "Écriture Comptable"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Site"
+msgstr "Chantier"
+
+msgid "Default Site"
+msgstr "Chantier par Défaut"
+
+msgid "Cost Center"
+msgstr "Centre de Coût"
+
+msgid "Lines"
+msgstr "Lignes"
+
+msgid "Company"
+msgstr "Société"
+
+msgid "Instrument Type"
+msgstr "Type d'Effet"
+
+msgid "Direction"
+msgstr "Sens"
+
+msgid "Party Type"
+msgstr "Type de Tiers"
+
+msgid "Party"
+msgstr "Tiers"
+
+msgid "Payment Entry"
+msgstr "Paiement"
+
+msgid "Cheque No"
+msgstr "N° de Chèque"
+
+msgid "Cheque Date"
+msgstr "Date du Chèque"
+
+msgid "Due Date"
+msgstr "Échéance"
+
+msgid "Bank Name"
+msgstr "Banque"
+
+msgid "Remarks"
+msgstr "Remarques"
+
+msgid "Deposit Date"
+msgstr "Date de Remise"
+
+msgid "Bank Account"
+msgstr "Compte Bancaire"
+
+msgid "Cheques"
+msgstr "Chèques"
+
+msgid "Total Amount"
+msgstr "Montant Total"
+
+msgid "Worker"
+msgstr "Ouvrier"
+
+msgid "Attendance Status"
+msgstr "Statut de Présence"
+
+msgid "Overtime Hours"
+msgstr "Heures Supplémentaires"
+
+msgid "Advance Requested"
+msgstr "Avance Demandée"
+
+msgid "Weather"
+msgstr "Météo"
+
+msgid "Work Done Summary"
+msgstr "Résumé des Travaux"
+
+msgid "Incidents"
+msgstr "Incidents"
+
+msgid "Photos"
+msgstr "Photos"
+
+msgid "Report Date"
+msgstr "Date du Rapport"
+
+msgid "Reference DocType"
+msgstr "Type de Document de Référence"
+
+msgid "Reference Name"
+msgstr "Nom de Référence"
+
+msgid "Retention %"
+msgstr "Retenue %"
+
+msgid "Retention Amount"
+msgstr "Montant de la Retenue"
+
+msgid "Retention Journal Entry"
+msgstr "Écriture de Retenue"
+
+msgid "Retention Released"
+msgstr "Retenue Libérée"
+
+msgid "Retention Release Journal Entry"
+msgstr "Écriture de Libération de Retenue"
+
+# --- Number cards ---
+msgid "Outstanding Customer Invoices"
+msgstr "Factures Clients en Souffrance"
+
+msgid "Supplier Invoices Due This Week"
+msgstr "Factures Fournisseurs à Échéance cette Semaine"
+
+msgid "Today Reports Submitted"
+msgstr "Rapports Soumis Aujourd'hui"
+
+# --- Buttons ---
+msgid "Release Retention"
+msgstr "Libérer la Retenue"
+
+msgid "Release the retention of {0} back to Accounts Payable?"
+msgstr "Libérer la retenue de {0} vers les Comptes Fournisseurs ?"
+
+msgid "Collect"
+msgstr "Encaisser"
+
+msgid "Reject"
+msgstr "Rejeter"
+
+msgid "Redeposit"
+msgstr "Redéposer"
+
+msgid "Mark Returned"
+msgstr "Marquer Retourné"
+
+msgid "Encash"
+msgstr "Encaisser"
+
+# --- Messages ---
+msgid "Cannot submit a Caisse Journal without lines."
+msgstr "Impossible de soumettre un Journal de Caisse sans lignes."
+
+msgid "Cannot submit a Deposit Slip without cheques."
+msgstr "Impossible de soumettre un Bordereau de Remise sans chèques."
+
+msgid "Cheque {0} is not in Portfolio (status: {1})."
+msgstr "Le chèque {0} n'est pas en portefeuille (statut : {1})."
+
+msgid "Cannot move cheque {0} from {1} to {2}."
+msgstr "Impossible de déplacer le chèque {0} de {1} à {2}."
+
+msgid "Purchase Invoice must be submitted."
+msgstr "La facture fournisseur doit être soumise."
+
+msgid "No retention held on this invoice."
+msgstr "Aucune retenue de garantie sur cette facture."
+
+msgid "Retention already released."
+msgstr "Retenue de garantie déjà libérée."
+
+msgid "Retention Payable account missing for company {0}."
+msgstr "Compte de Retenue de Garantie manquant pour la société {0}."
+
+msgid "PDC account {0} missing for company {1}. Run the PDC setup."
+msgstr "Compte PDC {0} manquant pour la société {1}. Exécutez la configuration PDC."
+
+msgid "Warning: no Project or Cost Center set. If this is a site expense, select the site Project/Cost Center."
+msgstr "Attention : aucun Projet ou Centre de Coût défini. S'il s'agit d'une charge de chantier, sélectionnez le Projet/Centre de Coût du chantier."
+
+msgid "Cheque {0} registered in the cheque portfolio."
+msgstr "Chèque {0} enregistré dans le portefeuille de chèques."
+
+msgid "Cannot cancel: cheque {0} already moved (status: {1}). Reverse the cheque first."
+msgstr "Impossible d'annuler : le chèque {0} a déjà été déplacé (statut : {1}). Reversez d'abord le chèque."
+
+msgid "No party account for {0} {1}."
+msgstr "Aucun compte tiers pour {0} {1}."
+
+msgid "No bank account found for encashment."
+msgstr "Aucun compte bancaire trouvé pour l'encaissement."
+
+msgid "No bank account found."
+msgstr "Aucun compte bancaire trouvé."

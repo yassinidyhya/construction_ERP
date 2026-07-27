@@ -3,12 +3,12 @@ import frappe
 
 def run():
 	"""Remove PDC test artifacts left behind by crashed test runs."""
-	for name in frappe.get_all("Bordereau de Remise", pluck="name"):
-		doc = frappe.get_doc("Bordereau de Remise", name)
+	for name in frappe.get_all("Deposit Slip", pluck="name"):
+		doc = frappe.get_doc("Deposit Slip", name)
 		if doc.docstatus == 1:
 			doc.flags.ignore_permissions = True
 			doc.cancel()
-		frappe.delete_doc("Bordereau de Remise", name, force=1, ignore_permissions=True)
+		frappe.delete_doc("Deposit Slip", name, force=1, ignore_permissions=True)
 
 	for name in frappe.get_all("Cheque", pluck="name"):
 		frappe.delete_doc("Cheque", name, force=1, ignore_permissions=True)
@@ -20,7 +20,7 @@ def run():
 	)
 	jes += frappe.get_all(
 		"Journal Entry",
-		filters={"user_remark": ["like", "%Bordereau%"]},
+		filters={"user_remark": ["like", "%Deposit slip%"]},
 		pluck="name",
 	)
 	for name in set(jes):
