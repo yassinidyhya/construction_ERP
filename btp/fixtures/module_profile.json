@@ -2,178 +2,91 @@
  {
   "block_modules": [
    {
-    "module": "Assets",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Assets"
    },
    {
-    "module": "Automation",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Automation"
    },
    {
-    "module": "Bulk Transaction",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Bulk Transaction"
    },
    {
-    "module": "CRM",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "CRM"
    },
    {
-    "module": "Communication",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Communication"
    },
    {
-    "module": "Contacts",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Contacts"
    },
    {
-    "module": "Core",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Core"
    },
    {
-    "module": "Custom",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Custom"
    },
    {
-    "module": "Desk",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Desk"
    },
    {
-    "module": "EDI",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "EDI"
    },
    {
-    "module": "ERPNext Integrations",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "ERPNext Integrations"
    },
    {
-    "module": "Email",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Email"
    },
    {
-    "module": "Geo",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Geo"
    },
    {
-    "module": "Integrations",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Integrations"
    },
    {
-    "module": "Maintenance",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Maintenance"
    },
    {
-    "module": "Manufacturing",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Manufacturing"
    },
    {
-    "module": "Portal",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Portal"
    },
    {
-    "module": "Printing",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Printing"
    },
    {
-    "module": "Quality Management",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Quality Management"
    },
    {
-    "module": "Regional",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Regional"
    },
    {
-    "module": "BTP",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "BTP"
    },
    {
-    "module": "Setup",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Setup"
    },
    {
-    "module": "Social",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Social"
    },
    {
-    "module": "Subcontracting",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Subcontracting"
    },
    {
-    "module": "Support",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Support"
    },
    {
-    "module": "Telephony",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Telephony"
    },
    {
-    "module": "Utilities",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Utilities"
    },
    {
-    "module": "Website",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Website"
    },
    {
-    "module": "Workflow",
-    "parent": "BTP Comptable",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Workflow"
    }
   ],
   "docstatus": 0,
@@ -185,196 +98,100 @@
  {
   "block_modules": [
    {
-    "module": "Assets",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Assets"
    },
    {
-    "module": "Automation",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Automation"
    },
    {
-    "module": "Bulk Transaction",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Bulk Transaction"
    },
    {
-    "module": "Buying",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Buying"
    },
    {
-    "module": "Communication",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Communication"
    },
    {
-    "module": "Contacts",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Contacts"
    },
    {
-    "module": "Core",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Core"
    },
    {
-    "module": "Custom",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Custom"
    },
    {
-    "module": "Desk",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Desk"
    },
    {
-    "module": "EDI",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "EDI"
    },
    {
-    "module": "ERPNext Integrations",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "ERPNext Integrations"
    },
    {
-    "module": "Email",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Email"
    },
    {
-    "module": "Geo",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Geo"
    },
    {
-    "module": "HR",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "HR"
    },
    {
-    "module": "Integrations",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Integrations"
    },
    {
-    "module": "Maintenance",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Maintenance"
    },
    {
-    "module": "Manufacturing",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Manufacturing"
    },
    {
-    "module": "Payroll",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Payroll"
    },
    {
-    "module": "Portal",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Portal"
    },
    {
-    "module": "Printing",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Printing"
    },
    {
-    "module": "Quality Management",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Quality Management"
    },
    {
-    "module": "Regional",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Regional"
    },
    {
-    "module": "BTP",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "BTP"
    },
    {
-    "module": "Setup",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Setup"
    },
    {
-    "module": "Social",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Social"
    },
    {
-    "module": "Stock",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Stock"
    },
    {
-    "module": "Subcontracting",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Subcontracting"
    },
    {
-    "module": "Support",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Support"
    },
    {
-    "module": "Telephony",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Telephony"
    },
    {
-    "module": "Utilities",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Utilities"
    },
    {
-    "module": "Website",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Website"
    },
    {
-    "module": "Workflow",
-    "parent": "BTP Direction",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Workflow"
    }
   ],
   "docstatus": 0,
@@ -386,208 +203,106 @@
  {
   "block_modules": [
    {
-    "module": "Accounts",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Accounts"
    },
    {
-    "module": "Assets",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Assets"
    },
    {
-    "module": "Automation",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Automation"
    },
    {
-    "module": "Bulk Transaction",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Bulk Transaction"
    },
    {
-    "module": "Buying",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Buying"
    },
    {
-    "module": "CRM",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "CRM"
    },
    {
-    "module": "Communication",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Communication"
    },
    {
-    "module": "Contacts",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Contacts"
    },
    {
-    "module": "Core",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Core"
    },
    {
-    "module": "Custom",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Custom"
    },
    {
-    "module": "Desk",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Desk"
    },
    {
-    "module": "EDI",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "EDI"
    },
    {
-    "module": "ERPNext Integrations",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "ERPNext Integrations"
    },
    {
-    "module": "Email",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Email"
    },
    {
-    "module": "Geo",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Geo"
    },
    {
-    "module": "HR",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "HR"
    },
    {
-    "module": "Integrations",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Integrations"
    },
    {
-    "module": "Maintenance",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Maintenance"
    },
    {
-    "module": "Manufacturing",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Manufacturing"
    },
    {
-    "module": "Payroll",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Payroll"
    },
    {
-    "module": "Portal",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Portal"
    },
    {
-    "module": "Printing",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Printing"
    },
    {
-    "module": "Quality Management",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Quality Management"
    },
    {
-    "module": "Regional",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Regional"
    },
    {
-    "module": "BTP",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "BTP"
    },
    {
-    "module": "Selling",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Selling"
    },
    {
-    "module": "Setup",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Setup"
    },
    {
-    "module": "Social",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Social"
    },
    {
-    "module": "Subcontracting",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Subcontracting"
    },
    {
-    "module": "Support",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Support"
    },
    {
-    "module": "Telephony",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Telephony"
    },
    {
-    "module": "Utilities",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Utilities"
    },
    {
-    "module": "Website",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Website"
    },
    {
-    "module": "Workflow",
-    "parent": "BTP Chantier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Workflow"
    }
   ],
   "docstatus": 0,
@@ -599,208 +314,106 @@
  {
   "block_modules": [
    {
-    "module": "Accounts",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Accounts"
    },
    {
-    "module": "Assets",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Assets"
    },
    {
-    "module": "Automation",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Automation"
    },
    {
-    "module": "Bulk Transaction",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Bulk Transaction"
    },
    {
-    "module": "CRM",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "CRM"
    },
    {
-    "module": "Communication",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Communication"
    },
    {
-    "module": "Contacts",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Contacts"
    },
    {
-    "module": "Core",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Core"
    },
    {
-    "module": "Custom",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Custom"
    },
    {
-    "module": "Desk",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Desk"
    },
    {
-    "module": "EDI",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "EDI"
    },
    {
-    "module": "ERPNext Integrations",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "ERPNext Integrations"
    },
    {
-    "module": "Email",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Email"
    },
    {
-    "module": "Geo",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Geo"
    },
    {
-    "module": "HR",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "HR"
    },
    {
-    "module": "Integrations",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Integrations"
    },
    {
-    "module": "Maintenance",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Maintenance"
    },
    {
-    "module": "Manufacturing",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Manufacturing"
    },
    {
-    "module": "Payroll",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Payroll"
    },
    {
-    "module": "Portal",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Portal"
    },
    {
-    "module": "Printing",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Printing"
    },
    {
-    "module": "Projects",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Projects"
    },
    {
-    "module": "Quality Management",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Quality Management"
    },
    {
-    "module": "Regional",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Regional"
    },
    {
-    "module": "BTP",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "BTP"
    },
    {
-    "module": "Selling",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Selling"
    },
    {
-    "module": "Setup",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Setup"
    },
    {
-    "module": "Social",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Social"
    },
    {
-    "module": "Subcontracting",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Subcontracting"
    },
    {
-    "module": "Support",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Support"
    },
    {
-    "module": "Telephony",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Telephony"
    },
    {
-    "module": "Utilities",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Utilities"
    },
    {
-    "module": "Website",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Website"
    },
    {
-    "module": "Workflow",
-    "parent": "BTP Magasinier",
-    "parentfield": "block_modules",
-    "parenttype": "Module Profile"
+    "module": "Workflow"
    }
   ],
   "docstatus": 0,

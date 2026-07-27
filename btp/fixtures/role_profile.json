@@ -7,39 +7,21 @@
   "role_profile": "BTP Comptable",
   "roles": [
    {
-    "parent": "BTP Comptable",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Comptable"
    },
    {
-    "parent": "BTP Comptable",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Accounts User"
    },
    {
-    "parent": "BTP Comptable",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Purchase User"
    },
    {
-    "parent": "BTP Comptable",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Sales User"
    },
    {
-    "parent": "BTP Comptable",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Stock User"
    },
    {
-    "parent": "BTP Comptable",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "HR User"
    }
   ]
@@ -52,33 +34,18 @@
   "role_profile": "BTP Direction",
   "roles": [
    {
-    "parent": "BTP Direction",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Direction"
    },
    {
-    "parent": "BTP Direction",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Accounts User"
    },
    {
-    "parent": "BTP Direction",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Sales User"
    },
    {
-    "parent": "BTP Direction",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Projects User"
    },
    {
-    "parent": "BTP Direction",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Report Manager"
    }
   ]
@@ -91,21 +58,12 @@
   "role_profile": "BTP Chantier",
   "roles": [
    {
-    "parent": "BTP Chantier",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Chef de Chantier"
    },
    {
-    "parent": "BTP Chantier",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Projects User"
    },
    {
-    "parent": "BTP Chantier",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Stock User"
    }
   ]
@@ -118,21 +76,12 @@
   "role_profile": "BTP Magasinier",
   "roles": [
    {
-    "parent": "BTP Magasinier",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Magasinier"
    },
    {
-    "parent": "BTP Magasinier",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Stock User"
    },
    {
-    "parent": "BTP Magasinier",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
     "role": "Purchase User"
    }
   ]
