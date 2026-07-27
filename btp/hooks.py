@@ -23,21 +23,21 @@ fixtures = [
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
-# add_to_apps_screen = [
-# 	{
-# 		"name": "btp",
-# 		"logo": "/assets/btp/logo.png",
-# 		"title": "BTP",
-# 		"route": "/btp",
-# 		"has_permission": "btp.api.permission.has_app_permission"
-# 	}
-# ]
+add_to_apps_screen = [
+	{
+		"name": "btp",
+		"logo": "/assets/btp/images/rijal-logo.svg",
+		"title": "RIJAL TRAVAUX",
+		"route": "/desk",
+		"has_permission": "btp.btp.ui.has_app_permission",
+	}
+]
 
 # Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/btp/css/btp.css"
+app_include_css = "/assets/btp/css/rijal_desk.css"
 # app_include_js = "/assets/btp/js/btp.js"
 
 # include js, css files in header of web template
@@ -202,10 +202,10 @@ doc_events = {
 
 # Overriding Methods
 # ------------------------------
-#
-# override_whitelisted_methods = {
-# 	"frappe.desk.doctype.event.event.get_events": "btp.event.get_events"
-# }
+
+override_whitelisted_methods = {
+	"frappe.apps.get_apps": "btp.btp.ui.get_apps",
+}
 #
 # each overriding function accepts a `data` argument;
 # generated from the base implementation of the doctype dashboard,

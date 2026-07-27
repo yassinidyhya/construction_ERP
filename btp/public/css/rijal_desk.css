@@ -1,0 +1,32 @@
+/* RIJAL TRAVAUX desk theme — brand is black & white (logo), keep it clean */
+
+:root {
+	--rijal-primary: #171717;
+}
+
+/* Brand accent on primary buttons */
+.btn-primary,
+.btn-primary:active {
+	background-color: var(--rijal-primary) !important;
+	border-color: var(--rijal-primary) !important;
+}
+
+.btn-primary:hover {
+	background-color: #000 !important;
+	border-color: #000 !important;
+}
+
+/* Workspace number cards: cleaner look */
+.widget.number-card-box {
+	border-radius: 8px;
+}
+
+/* Sidebar: slightly tighter */
+.layout-side-section .sidebar-label {
+	letter-spacing: 0.4px;
+}
+
+/* Login page brand polish */
+.for-login .page-card {
+	border-radius: 12px;
+}
